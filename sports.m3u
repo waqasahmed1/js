@@ -1,5 +1,90 @@
 
+
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) ESPN SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0180_ESPN.png" group-title="Canales | Deportes",(LAT) ESPN SD
+http://kplay.red/live/1060490/8912735/82164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) ESPN HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0180_ESPN.png" group-title="Canales | Deportes",(LAT) ESPN HD
+http://kplay.red/live/1060490/8912735/82152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) ESPN FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0180_ESPN.png" group-title="Canales | Deportes",(LAT) ESPN FHD
+http://kplay.red/live/1060490/8912735/82151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) ESPN 2 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0175_ESPN-2.png" group-title="Canales | Deportes",(LAT) ESPN 2 SD
+http://kplay.red/live/1060490/8912735/81250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) ESPN 2 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0175_ESPN-2.png" group-title="Canales | Deportes",(LAT) ESPN 2 HD
+http://kplay.red/live/1060490/8912735/81249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) ESPN 2 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0175_ESPN-2.png" group-title="Canales | Deportes",(LAT) ESPN 2 FHD
+http://kplay.red/live/1060490/8912735/81191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) ESPN 3 SD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0027_ESPN-3.png" group-title="Canales | Deportes",(LAT) ESPN 3 SD
+http://kplay.red/live/1060490/8912735/81190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) ESPN 3 HD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0027_ESPN-3.png" group-title="Canales | Deportes",(LAT) ESPN 3 HD
+http://kplay.red/live/1060490/8912735/80840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) ESPN 3 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0027_ESPN-3.png" group-title="Canales | Deportes",(LAT) ESPN 3 FHD
+http://kplay.red/live/1060490/8912735/1090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) FOX Sports SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) FOX Sports SD
+http://kplay.red/live/1060490/8912735/129537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) FOX Sports HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) FOX Sports HD
+http://kplay.red/live/1060490/8912735/129535.m3u8
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="(LAT) FOX Sports FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) FOX Sports FHD
+http://kplay.red/live/1060490/8912735/129534.m3u8
+#EXTINF:-1 tvg-id="FSALSPC" tvg-name="(LAT) FOX Sports 2 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) FOX Sports 2 SD
+http://kplay.red/live/1060490/8912735/129533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) FOX Sports 2 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) FOX Sports 2 HD
+http://kplay.red/live/1060490/8912735/129532.m3u8
+#EXTINF:-1 tvg-id="FS2AR" tvg-name="(LAT) FOX Sports 2 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) FOX Sports 2 FHD
+http://kplay.red/live/1060490/8912735/129531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) FOX Sports 3 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) FOX Sports 3 SD
+http://kplay.red/live/1060490/8912735/343530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) FOX Sports 3 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) FOX Sports 3 HD
+http://kplay.red/live/1060490/8912735/80799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) FOX Sports 3 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) FOX Sports 3 FHD
+http://kplay.red/live/1060490/8912735/80781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) Sky Sports Premier HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/Sky%20Sports%20Premier.png" group-title="Canales | Deportes",(LAT) Sky Sports Premier HD
+http://kplay.red/live/1060490/8912735/916755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) Claro Sports HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/Claro%20Sports.png" group-title="Canales | Deportes",(LAT) Claro Sports HD
+http://kplay.red/live/1060490/8912735/916756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirectTV Sports" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirectTV Sports
+http://kplay.red/live/1060490/8912735/916757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) Tennis Channel HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/Tennis%20Channel.png" group-title="Canales | Deportes",(LAT) Tennis Channel HD
+http://kplay.red/live/1060490/8912735/916759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) Movistar Deportes HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/Movistar%20Deportes.png" group-title="Canales | Deportes",(LAT) Movistar Deportes HD
+http://kplay.red/live/1060490/8912735/916761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) TYC Sports HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/TyC%20Sports.png" group-title="Canales | Deportes",(LAT) TYC Sports HD
+http://kplay.red/live/1060490/8912735/916762.m3u8
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="(LAT) UFC Fight Pass HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0124_UFC-FIGHT-PASS.png" group-title="Canales | Deportes",(LAT) UFC Fight Pass HD
+http://kplay.red/live/1060490/8912735/916763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) Tudn HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/TUDN.png" group-title="Canales | Deportes",(LAT) Tudn HD
+http://kplay.red/live/1060490/8912735/916764.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="(LAT) TNT Sports HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/TNT%20Sports.png" group-title="Canales | Deportes",(LAT) TNT Sports HD
+http://kplay.red/live/1060490/8912735/916789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) CDO Basico HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/CDO%20Ba╠üsico.png" group-title="Canales | Deportes",(LAT) CDO Basico HD
+http://kplay.red/live/1060490/8912735/916791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) Fox Sports Chile HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canales | Deportes",(LAT) Fox Sports Chile HD
+http://kplay.red/live/1060490/8912735/916798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirecTV Sports 2 SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirecTV Sports 2 SD
+http://kplay.red/live/1060490/8912735/1561731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirecTV Sports 2 HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirecTV Sports 2 HD
+http://kplay.red/live/1060490/8912735/1561730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirecTV Sports 2 FHD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirecTV Sports 2 FHD
+http://kplay.red/live/1060490/8912735/1561729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirecTV Sports 1 SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirecTV Sports 1 SD
+http://kplay.red/live/1060490/8912735/1561734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirecTV Sports 1 HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirecTV Sports 1 HD
+http://kplay.red/live/1060490/8912735/1561733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirecTV Sports 1 FHD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirecTV Sports 1 FHD
+http://kplay.red/live/1060490/8912735/1561732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(FR) Bein Sports 4" tvg-logo="https://i.ibb.co/wFwP6MyT/Untitled-design-1.png" group-title="Canales | Deportes",(FR) Bein Sports 4
+http://kplay.red/live/1060490/8912735/1561735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(FR) Bein Sports 3" tvg-logo="https://i.ibb.co/wFwP6MyT/Untitled-design-1.png" group-title="Canales | Deportes",(FR) Bein Sports 3
+http://kplay.red/live/1060490/8912735/1561736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(FR) Bein Sports 2" tvg-logo="https://i.ibb.co/wFwP6MyT/Untitled-design-1.png" group-title="Canales | Deportes",(FR) Bein Sports 2
+http://kplay.red/live/1060490/8912735/1561737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(FR) Bein Sports 1" tvg-logo="https://i.ibb.co/wFwP6MyT/Untitled-design-1.png" group-title="Canales | Deportes",(FR) Bein Sports 1
+http://kplay.red/live/1060490/8912735/1561738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirecTV Sports+ SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirecTV Sports+ SD
+http://kplay.red/live/1060490/8912735/1561739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirecTV Sports+ HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirecTV Sports+ HD
+http://kplay.red/live/1060490/8912735/1561740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(LAT) DirecTV Sports+ FHD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/DIRECTV%20Sports.png" group-title="Canales | Deportes",(LAT) DirecTV Sports+ FHD
+http://kplay.red/live/1060490/8912735/1561741.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 FHD" tvg-logo="http://www.tmsimg.com/assets/s94567_ll_h3_aa.png" group-title="⚽ SPORTV",SporTV 1 FHD
 http://play.brothersvods.top:80/524005288/695769019/724734.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 HD" tvg-logo="http://www.tmsimg.com/assets/s94567_ll_h3_aa.png" group-title="⚽ SPORTV",SporTV 1 HD
