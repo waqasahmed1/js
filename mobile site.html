@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Video Player</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2c3e50;
+            --accent-color: #e74c3c;
+            --light-color: #ecf0f1;
+            --dark-color: #34495e;
+            --background-gradient: linear-gradient(135deg, #1a2980, #26d0ce);
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: var(--background-gradient);
+            color: var(--light-color);
+            min-height: 100vh;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .container {
+            width: 100%;
+            max-width: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+            padding: 15px;
+        }
+        
+        header {
+            text-align: center;
+            padding: 10px;
+            margin-bottom: 15px;
+        }
+        
+        h1 {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            color: var(--light-color);
+        }
+        
+        .video-container {
+            background: #000;
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+            padding-top: 56.25%; /* 16:9 Aspect Ratio */
+            margin-bottom: 15px;
+        }
+        
+        #video-player {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+        }
+        
+        .player-controls {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .control-btn {
+            padding: 10px 12px;
+            border: none;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.9rem;
+        }
+        
+        .control-btn:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+        
+        .control-btn i {
+            font-size: 14px;
+        }
+        
+        .playlist-section {
+            margin-top: 15px;
+        }
+        
+        .playlist-btn {
+            width: 100%;
+            padding: 15px;
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: bold;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+            font-size: 1rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .playlist-btn:hover {
+            background: #2980b9;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+        }
+        
+        .playlist-btn i {
+            font-size: 24px;
+        }
+        
+        .playlist-btn span {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+        
+        .playlist-container {
+            margin-top: 15px;
+            background-color: var(--dark-color);
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            display: none;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .playlist-container.show {
+            display: block;
+        }
+        
+        .playlist-header {
+            padding: 12px;
+            background-color: var(--secondary-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .playlist-header h3 {
+            font-size: 1.1rem;
+        }
+        
+        .channel-count {
+            font-size: 0.8rem;
+            color: rgba(255, 255, 255, 0.7);
+            margin-left: 8px;
+        }
+        
+        .playlist-content {
+            padding: 10px;
+        }
+        
+        .playlist-item {
+            padding: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            cursor: pointer;
+            transition: background-color 0.3s;
+            display: flex;
+            align-items: center;
+            border-radius: 5px;
+            margin-bottom: 5px;
+        }
+        
+        .playlist-item:hover {
+            background-color: rgba(255, 255, 255, 0.05);
+        }
+        
+        .playlist-item.active {
+            background-color: rgba(52, 152, 219, 0.2);
+            border-left: 3px solid var(--primary-color);
+        }
+        
+        .channel-icon {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background-color: var(--primary-color);
+            margin-right: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 12px;
+        }
+        
+        .channel-info {
+            flex: 1;
+        }
+        
+        .channel-name {
+            font-weight: bold;
+            margin-bottom: 3px;
+            font-size: 0.9rem;
+        }
+        
+        .channel-group {
+            font-size: 0.75rem;
+            color: rgba(255, 255, 255, 0.7);
+        }
+        
+        .channel-format {
+            font-size: 0.7rem;
+            padding: 2px 8px;
+            border-radius: 10px;
+            background: var(--secondary-color);
+        }
+        
+        .status {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.1);
+            font-size: 0.9rem;
+            display: none;
+        }
+        
+        .success {
+            background: rgba(0, 255, 0, 0.2);
+        }
+        
+        .error {
+            background: rgba(255, 0, 0, 0.2);
+        }
+        
+        footer {
+            margin-top: 15px;
+            text-align: center;
+            color: #ddd;
+            font-size: 0.8rem;
+        }
+        
+        @media (max-width: 480px) {
+            .player-controls {
+                gap: 5px;
+            }
+            
+            .control-btn {
+                padding: 8px 10px;
+                font-size: 0.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Mobile Video Player</h1>
+        </header>
+        
+        <div class="video-container">
+            <video id="video-player" controls></video>
+        </div>
+        
+        <div class="player-controls">
+            <button class="control-btn" id="play-btn">
+                <i class="fas fa-play"></i> Play
+            </button>
+            <button class="control-btn" id="pause-btn">
+                <i class="fas fa-pause"></i> Pause
+            </button>
+            <button class="control-btn" id="mute-btn">
+                <i class="fas fa-volume-up"></i> Mute
+            </button>
+            <button class="control-btn" id="fullscreen-btn">
+                <i class="fas fa-expand"></i> Fullscreen
+            </button>
+        </div>
+        
+        <div id="status-message" class="status"></div>
+        
+        <div class="playlist-section">
+            <button class="playlist-btn" id="toggle-playlist">
+                <i class="fas fa-list"></i>
+                <span>Load Playlist</span>
+            </button>
+            
+            <div class="playlist-container" id="playlist-container">
+                <div class="playlist-header">
+                    <h3>Available Channels <span id="channel-count" class="channel-count">(0 channels)</span></h3>
+                </div>
+                <div class="playlist-content" id="playlist-content">
+                    <!-- Playlist items will be loaded here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Mobile Video Player &copy; 2023</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // DOM Elements
+            const videoPlayer = document.getElementById('video-player');
+            const togglePlaylistBtn = document.getElementById('toggle-playlist');
+            const playlistContainer = document.getElementById('playlist-container');
+            const playlistContent = document.getElementById('playlist-content');
+            const statusMessage = document.getElementById('status-message');
+            const channelCountDisplay = document.getElementById('channel-count');
+            
+            // Player control buttons
+            const playBtn = document.getElementById('play-btn');
+            const pauseBtn = document.getElementById('pause-btn');
+            const muteBtn = document.getElementById('mute-btn');
+            const fullscreenBtn = document.getElementById('fullscreen-btn');
+            
+            // Current playlist data
+            let channels = [];
+            let filteredChannels = [];
+            
+            // Playlist URL
+            const PLAYLIST_URL = 'https://raw.githubusercontent.com/waqasahmed1/js/master/movil.m3u';
+            
+            // Toggle playlist visibility
+            togglePlaylistBtn.addEventListener('click', function() {
+                // If playlist is not loaded yet, load it
+                if (channels.length === 0) {
+                    loadM3UFromURL(PLAYLIST_URL);
+                } else {
+                    playlistContainer.classList.toggle('show');
+                    updateToggleButtonText();
+                }
+            });
+            
+            // Player control functions
+            playBtn.addEventListener('click', function() {
+                videoPlayer.play().catch(e => {
+                    showStatus('Playback failed: user interaction required', 'error');
+                });
+            });
+            
+            pauseBtn.addEventListener('click', function() {
+                videoPlayer.pause();
+            });
+            
+            muteBtn.addEventListener('click', function() {
+                videoPlayer.muted = !videoPlayer.muted;
+                muteBtn.innerHTML = videoPlayer.muted ? 
+                    '<i class="fas fa-volume-mute"></i> Unmute' : 
+                    '<i class="fas fa-volume-up"></i> Mute';
+            });
+            
+            fullscreenBtn.addEventListener('click', function() {
+                if (videoPlayer.requestFullscreen) {
+                    videoPlayer.requestFullscreen();
+                } else if (videoPlayer.webkitRequestFullscreen) {
+                    videoPlayer.webkitRequestFullscreen();
+                } else if (videoPlayer.msRequestFullscreen) {
+                    videoPlayer.msRequestFullscreen();
+                }
+            });
+            
+            // Function to load M3U from URL
+            function loadM3UFromURL(url) {
+                showStatus('Loading playlist...', 'success');
+                
+                // Use CORS proxy to bypass GitHub CORS restrictions
+                const proxyUrl = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url);
+                
+                fetch(proxyUrl)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('Network response was not ok: ' + response.status);
+                        }
+                        return response.text();
+                    })
+                    .then(data => {
+                        parseM3UContent(data);
+                        showStatus('Playlist loaded successfully! ' + channels.length + ' channels found', 'success');
+                        playlistContainer.classList.add('show');
+                        updateToggleButtonText();
+                    })
+                    .catch(error => {
+                        console.error('Error loading M3U:', error);
+                        showStatus('Error loading playlist: ' + error.message, 'error');
+                    });
+            }
+            
+            // Function to parse M3U content
+            function parseM3UContent(content) {
+                channels = [];
+                const lines = content.split('\n');
+                let currentChannel = {};
+                
+                for (let i = 0; i < lines.length; i++) {
+                    const line = lines[i].trim();
+                    
+                    if (line.startsWith('#EXTINF:')) {
+                        // Parse channel info
+                        const info = line.substring(8).split(',');
+                        const params = info[0].split(' ');
+                        const name = info.slice(1).join(',');
+                        
+                        currentChannel = {
+                            name: name || 'Unknown Channel',
+                            group: 'General',
+                            url: ''
+                        };
+                        
+                        // Extract group and other parameters
+                        for (let j = 0; j < params.length; j++) {
+                            if (params[j].includes('group-title=')) {
+                                currentChannel.group = params[j].split('=')[1].replace(/"/g, '');
+                            }
+                        }
+                    } else if (line && !line.startsWith('#') && currentChannel.name) {
+                        // This is the URL line
+                        currentChannel.url = line;
+                        currentChannel.type = getFileExtension(line);
+                        channels.push({...currentChannel});
+                        currentChannel = {};
+                    }
+                }
+                
+                // If no channels found with standard parsing, try alternative parsing
+                if (channels.length === 0) {
+                    console.log('Standard parsing failed, trying alternative method...');
+                    parseM3UAlternative(content);
+                }
+                
+                filteredChannels = [...channels];
+                displayChannels();
+                
+                // Play the first channel if available
+                if (channels.length > 0) {
+                    playChannel(0);
+                }
+            }
+            
+            // Alternative M3U parsing method
+            function parseM3UAlternative(content) {
+                const lines = content.split('\n');
+                let currentChannel = {};
+                
+                for (let i = 0; i < lines.length; i++) {
+                    const line = lines[i].trim();
+                    
+                    if (line.startsWith('#EXTINF:')) {
+                        // Parse channel info
+                        const info = line.substring(8);
+                        const nameIndex = info.indexOf(',');
+                        
+                        if (nameIndex !== -1) {
+                            const params = info.substring(0, nameIndex);
+                            const name = info.substring(nameIndex + 1);
+                            
+                            currentChannel = {
+                                name: name || 'Unknown Channel',
+                                group: 'General',
+                                url: ''
+                            };
+                            
+                            // Extract group from parameters
+                            const groupMatch = params.match(/group-title="([^"]*)"/);
+                            if (groupMatch) {
+                                currentChannel.group = groupMatch[1];
+                            }
+                        }
+                    } else if (line && !line.startsWith('#') && currentChannel.name) {
+                        // This is the URL line
+                        currentChannel.url = line;
+                        currentChannel.type = getFileExtension(line);
+                        channels.push({...currentChannel});
+                        currentChannel = {};
+                    }
+                }
+            }
+            
+            // Function to display channels in playlist
+            function displayChannels() {
+                playlistContent.innerHTML = '';
+                
+                // Update channel count
+                channelCountDisplay.textContent = `(${filteredChannels.length} channels)`;
+                
+                if (filteredChannels.length === 0) {
+                    playlistContent.innerHTML = '<div class="playlist-item" style="text-align: center; padding: 20px;">No channels found</div>';
+                    return;
+                }
+                
+                filteredChannels.forEach((channel, index) => {
+                    const channelElement = document.createElement('div');
+                    channelElement.className = 'playlist-item';
+                    channelElement.innerHTML = `
+                        <div class="channel-icon">${channel.name.charAt(0)}</div>
+                        <div class="channel-info">
+                            <div class="channel-name">${channel.name}</div>
+                            <div class="channel-group">${channel.group}</div>
+                        </div>
+                        <div class="channel-format">${channel.type}</div>
+                    `;
+                    
+                    channelElement.addEventListener('click', () => {
+                        playChannel(index);
+                    });
+                    
+                    playlistContent.appendChild(channelElement);
+                });
+            }
+            
+            // Function to play a specific channel
+            function playChannel(index) {
+                const channel = filteredChannels[index];
+                
+                // Update active channel in playlist
+                document.querySelectorAll('.playlist-item').forEach(item => {
+                    item.classList.remove('active');
+                });
+                playlistContent.children[index].classList.add('active');
+                
+                // Load the channel
+                loadVideo(channel.url);
+            }
+            
+            // Function to load video
+            function loadVideo(url) {
+                videoPlayer.src = url;
+                videoPlayer.load();
+                videoPlayer.play().catch(e => {
+                    console.log('Autoplay prevented, user interaction required');
+                });
+            }
+            
+            // Helper function to get file extension
+            function getFileExtension(url) {
+                if (!url) return 'Unknown';
+                
+                // Handle URLs with query parameters
+                const cleanUrl = url.split('?')[0];
+                const extension = cleanUrl.split('.').pop().toLowerCase();
+                
+                // Map common extensions to format names
+                const formatMap = {
+                    'mp4': 'MP4',
+                    'm3u8': 'HLS',
+                    'm3u': 'M3U',
+                    'ts': 'TS',
+                    'mkv': 'MKV',
+                    'avi': 'AVI',
+                    'webm': 'WebM',
+                    'mov': 'MOV',
+                    'flv': 'FLV',
+                    'wmv': 'WMV'
+                };
+                
+                return formatMap[extension] || extension.toUpperCase();
+            }
+            
+            // Function to show status messages
+            function showStatus(message, type = '') {
+                statusMessage.textContent = message;
+                statusMessage.className = 'status';
+                statusMessage.style.display = 'block';
+                
+                if (type) {
+                    statusMessage.classList.add(type);
+                }
+                
+                // Clear status after 5 seconds
+                setTimeout(() => {
+                    statusMessage.textContent = '';
+                    statusMessage.className = 'status';
+                    statusMessage.style.display = 'none';
+                }, 5000);
+            }
+            
+            // Update toggle button text based on playlist state
+            function updateToggleButtonText() {
+                togglePlaylistBtn.innerHTML = playlistContainer.classList.contains('show') ? 
+                    '<i class="fas fa-times"></i><span>Hide Playlist</span>' : 
+                    '<i class="fas fa-list"></i><span>Show Playlist</span>';
+            }
+        });
+    </script>
+</body>
+</html>
