@@ -1,203 +1,73 @@
 #EXTM3U
-#EXTINF:-1,24 News
-http://175.107.244.52:4456/play/a031/index.m3u8
-#EXTINF:-1,365 NEWS
-http://175.107.244.52:4456/play/a06u/index.m3u8
-#EXTINF:-1,8XM 
-http://175.107.244.52:4456/play/a03x/index.m3u8
-#EXTINF:-1,92 News
-http://175.107.244.52:4456/play/a04h/index.m3u8
-#EXTINF:-1,A Plus
-http://175.107.244.52:4456/play/a04k/index.m3u8
-#EXTINF:-1,AAN TV 
-http://175.107.244.52:4456/play/a071/index.m3u8
-#EXTINF:-1,ABN NEWS
-http://175.107.244.52:4456/play/a06y/index.m3u8
-#EXTINF:-1,AGN NEWS HVC
-http://175.107.244.52:4456/play/a07a/index.m3u8
-#EXTINF:-1,AIK NEWS
-http://175.107.244.52:4456/play/a04e/index.m3u8
-#EXTINF:-1,ARY A SportsHD
-http://175.107.244.52:4456/play/a04p/index.m3u8
-#EXTINF:-1,ARY Digital HD
-http://175.107.244.52:4456/play/a051/index.m3u8
-#EXTINF:-1,ARY News
-http://175.107.244.52:4456/play/a04y/index.m3u8
-#EXTINF:-1,ARY QTV
-http://175.107.244.52:4456/play/a04z/index.m3u8
-#EXTINF:-1,ARY Zindagi
-http://175.107.244.52:4456/play/a050/index.m3u8
-#EXTINF:-1,ASIA ONE NEWS  HVC 
-http://175.107.244.52:4456/play/a07j/index.m3u8
-#EXTINF:-1,AUR Life
-http://175.107.244.52:4456/play/a04l/index.m3u8
-#EXTINF:-1,AWAZ NEWS ( HVC )
-http://175.107.244.52:4456/play/a07n/index.m3u8
-#EXTINF:-1,Aaj Entertainment
-http://175.107.244.52:4456/play/a02z/index.m3u8
-#EXTINF:-1,Aaj News
-http://175.107.244.52:4456/play/a02y/index.m3u8
-#EXTINF:-1,Abb Tak News
-http://175.107.244.52:4456/play/a03v/index.m3u8
-#EXTINF:-1,Al Majid
-http://175.107.244.52:4456/play/a06q/index.m3u8
-#EXTINF:-1,Al Majid (HVC)
-http://175.107.244.52:4456/play/a064/index.m3u8
-#EXTINF:-1,Apna Channel
-http://175.107.244.52:4456/play/a03y/index.m3u8
-#EXTINF:-1,Avt Khyber
-http://175.107.244.52:4456/play/a02u/index.m3u8
-#EXTINF:-1,BBC NEWS
-http://175.107.244.52:4456/play/a079/index.m3u8
-#EXTINF:-1,BOL Entertainment
-http://175.107.244.52:4456/play/a05k/index.m3u8
-#EXTINF:-1,BOL News 
-http://175.107.244.52:4456/play/a05j/index.m3u8
-#EXTINF:-1,CAPITAL NEWS
-http://175.107.244.52:4456/play/a05g/index.m3u8
-#EXTINF:-1,CNN
-http://175.107.244.52:4456/play/a067/index.m3u8
-#EXTINF:-1,Cartoon Network  (PAK)
-http://175.107.244.52:4456/play/a05u/index.m3u8
-#EXTINF:-1,Channel 5 News
-http://175.107.244.52:4456/play/a068/index.m3u8
-#EXTINF:-1,City 21
-http://175.107.244.52:4456/play/a036/index.m3u8
-#EXTINF:-1,DHARTI TV
-http://175.107.244.52:4456/play/a06n/index.m3u8
-#EXTINF:-1,Dawn News
-http://175.107.244.52:4456/play/a04g/index.m3u8
-#EXTINF:-1,Discover Pakistan
-http://175.107.244.52:4456/play/a049/index.m3u8
-#EXTINF:-1,Dunya News
-http://175.107.244.52:4456/play/a04m/index.m3u8
-#EXTINF:-1,EBRAVO  Comedy Central Family HD
-http://175.107.244.52:4456/play/a02s/index.m3u8
-#EXTINF:-1,EBRAVO EURO SPORTS 1
-http://175.107.244.52:4456/play/a061/index.m3u8
-#EXTINF:-1,EMG CINEWORLD HD
-http://175.107.244.52:4456/play/a07d/index.m3u8
-#EXTINF:-1,EMG HUNGAMA HD
-http://175.107.244.52:4456/play/a07f/index.m3u8
-#EXTINF:-1,EMG ISLAMIC VISION
-http://175.107.244.52:4456/play/a07h/index.m3u8
-#EXTINF:-1,EMG RHYTHM HD
-http://175.107.244.52:4456/play/a07e/index.m3u8
-#EXTINF:-1,EMG SADABAHAR HD
-http://175.107.244.52:4456/play/a07b/index.m3u8
-#EXTINF:-1,EMG TAZA HD
-http://175.107.244.52:4456/play/a07c/index.m3u8
-#EXTINF:-1,ENG CITY 21
-http://175.107.244.52:4456/play/a07g/index.m3u8
-#EXTINF:-1,Express Entertainment
-http://175.107.244.52:4456/play/a038/index.m3u8
-#EXTINF:-1,Express News
-http://175.107.244.52:4456/play/a037/index.m3u8
-#EXTINF:-1,FAST SPORTS HD
-http://175.107.244.52:4456/play/a06m/index.m3u8
-#EXTINF:-1,FILMAX
-http://175.107.244.52:4456/play/a076/index.m3u8
-#EXTINF:-1,GEO SUPER
-http://175.107.244.52:4456/play/a06z/index.m3u8
-#EXTINF:-1,GNN
-http://175.107.244.52:4456/play/a028/index.m3u8
-#EXTINF:-1,GREEN ENT
-http://175.107.244.52:4456/play/a06g/index.m3u8
-#EXTINF:-1,GTV News
-http://175.107.244.52:4456/play/a04i/index.m3u8
-#EXTINF:-1,Geo Entertainment 
-http://175.107.244.52:4456/play/a06h/index.m3u8
-#EXTINF:-1,Geo Kahani 
-http://175.107.244.52:4456/play/a06i/index.m3u8
-#EXTINF:-1,Geo News 
-http://175.107.244.52:4456/play/a06o/index.m3u8
-#EXTINF:-1,HOORAH TV
-http://175.107.244.52:4456/play/a04d/index.m3u8
-#EXTINF:-1,IN PLUS
-http://175.107.244.52:4456/play/a06x/index.m3u8
-#EXTINF:-1,In House 1
-http://175.107.244.52:4456/play/a02e/index.m3u8
-#EXTINF:-1,In House 2
-http://175.107.244.52:4456/play/a02f/index.m3u8
-#EXTINF:-1,Jalwa Music 
-http://175.107.244.52:4456/play/a03w/index.m3u8
-#EXTINF:-1,K21 News (HVC
-http://175.107.244.52:4456/play/a05w/index.m3u8
-#EXTINF:-1,KTN ENT
-http://175.107.244.52:4456/play/a04s/index.m3u8
-#EXTINF:-1,KTN News
-http://175.107.244.52:4456/play/a04t/index.m3u8
-#EXTINF:-1,Karabala TV   ( HVC )
-http://175.107.244.52:4456/play/a06t/index.m3u8
-#EXTINF:-1,Kashish TV
-http://175.107.244.52:4456/play/a04u/index.m3u8
-#EXTINF:-1,Kay 2
-http://175.107.244.52:4456/play/a02w/index.m3u8
-#EXTINF:-1,Khyber News
-http://175.107.244.52:4456/play/a02v/index.m3u8
-#EXTINF:-1,Kidzone+ 
-http://175.107.244.52:4456/play/a05d/index.m3u8
-#EXTINF:-1,LTN Family
-http://175.107.244.52:4456/play/a06k/index.m3u8
-#EXTINF:-1,MUN TV
-http://175.107.244.52:4456/play/a074/index.m3u8
-#EXTINF:-1,Madani Tv
-http://175.107.244.52:4456/play/a02j/index.m3u8
-#EXTINF:-1,Metro One News
-http://175.107.244.52:4456/play/a05h/index.m3u8
-#EXTINF:-1,Muntazir TV
-http://175.107.244.52:4456/play/a02m/index.m3u8
-#EXTINF:-1,NTN NEWS
-http://175.107.244.52:4456/play/a07m/index.m3u8
-#EXTINF:-1,Neo News
-http://175.107.244.52:4456/play/a044/index.m3u8
-#EXTINF:-1,News One
-http://175.107.244.52:4456/play/a047/index.m3u8
-#EXTINF:-1,OCEAN NEWS  HVC
-http://175.107.244.52:4456/play/a07i/index.m3u8
-#EXTINF:-1,PLANET FUN
-http://175.107.244.52:4456/play/a06w/index.m3u8
-#EXTINF:-1,PTV NEWS HD
-http://175.107.244.52:4456/play/a040/index.m3u8
-#EXTINF:-1,PTV SPORTS HD
-http://175.107.244.52:4456/play/a042/index.m3u8
-#EXTINF:-1,PTV World
-http://175.107.244.52:4456/play/a043/index.m3u8
-#EXTINF:-1,PTV-Home
-http://175.107.244.52:4456/play/a03z/index.m3u8
-#EXTINF:-1,Paigham Pashto
-http://175.107.244.52:4456/play/a02o/index.m3u8
-#EXTINF:-1,Public News
-http://175.107.244.52:4456/play/a02k/index.m3u8
-#EXTINF:-1,Raavi TV
-http://175.107.244.52:4456/play/a04v/index.m3u8
-#EXTINF:-1,Roze News
-http://175.107.244.52:4456/play/a02b/index.m3u8
-#EXTINF:-1,SAB TV
-http://175.107.244.52:4456/play/a04f/index.m3u8
-#EXTINF:-1,SALAM YA HUSSAIN
-http://175.107.244.52:4456/play/a06c/index.m3u8
-#EXTINF:-1,SET ENTERTAINMENT 
-http://175.107.244.52:4456/play/a06d/index.m3u8
-#EXTINF:-1,SINDH TV
-http://175.107.244.52:4456/play/a04a/index.m3u8
-#EXTINF:-1,SUCH NEWS HVC
-http://175.107.244.52:4456/play/a078/index.m3u8
-#EXTINF:-1,Samaa News
-http://175.107.244.52:4456/play/a04j/index.m3u8
-#EXTINF:-1,Saudi QURAN
-http://175.107.244.52:4456/play/a075/index.m3u8
-#EXTINF:-1,Sindh News
-http://175.107.244.52:4456/play/a04b/index.m3u8
-#EXTINF:-1,Suno Tv
-http://175.107.244.52:4456/play/a072/index.m3u8
-#EXTINF:-1,TV One
-http://175.107.244.52:4456/play/a046/index.m3u8
-#EXTINF:-1,TV Today
-http://175.107.244.52:4456/play/a02d/index.m3u8
-#EXTINF:-1,Ten Sports
-http://175.107.244.52:4456/play/a05v/index.m3u8
-#EXTINF:-1,Times News HD
-http://175.107.244.52:4456/play/a06f/index.m3u8
-#EXTINF:-1,Venus TV
-http://175.107.244.52:4456/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TVE LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TVE LA 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TVE 24 H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EURONEWS ES
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EURONEWS ES
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EURONEWS ES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EL PAIS
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",CANAL PARLAMENTO
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",CANAL DIPUTADOS
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TVE DEPORTE
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TVE CLAN
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",PEQUE TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",CARTOON NETWORK ES
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",CARTOON NETWORK ES
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",SUR 1 ANDALUCIA
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",SUR 2 ANDALUCIA
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",ARAGON TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",ARAGON NOTICIAS
+https://cartv.streaming.aranova.es/hls/live/anoticias_canal2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",LA 1 CANARIAS
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",LA 2 CANARIAS
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",24 H CANARIAS
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",CASTILLA MEDIA
+http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",CASTILLA LA 7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",LA 1 CATALUNYA
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",LA 2 CATALUNYA
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",24 H CATALUNYA
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TV3 CATALUNYA INT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",CEUTA RTV
+https://cdnlive.shooowit.net/rtvcelive/channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TELE MADRID
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",CANAL EXTRAMADURA
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TVG GALICIA 1
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TVG GALICIA 2
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EITB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EITB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EITB INT
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EITB DEPORTE
+https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
