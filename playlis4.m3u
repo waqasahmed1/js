@@ -71,3 +71,208 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EITB DEPORTE
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="PAKISTAN",GEO SUPER
+http://175.107.244.52:4456/play/a06z/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Geo Kahani
+http://175.107.244.52:4456/play/a06i/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",A Plus
+http://175.107.244.52:4456/play/a04k/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",AAN TV
+http://175.107.244.52:4456/play/a071/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ARY QTV
+http://175.107.244.52:4456/play/a04z/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Aaj Entertainment
+http://175.107.244.52:4456/play/a02z/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",BOL Entertainment
+http://175.107.244.52:4456/play/a05k/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",DHARTI TV
+http://175.107.244.52:4456/play/a06n/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Express Entertainment
+http://175.107.244.52:4456/play/a038/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Geo Entertainment
+http://175.107.244.52:4456/play/a06h/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",HOORAH TV
+http://175.107.244.52:4456/play/a04d/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",IN PLUS
+http://175.107.244.52:4456/play/a06x/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Karabala TV   ( HVC )
+http://175.107.244.52:4456/play/a06t/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Kashish TV
+http://175.107.244.52:4456/play/a04u/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",MUN TV
+http://175.107.244.52:4456/play/a074/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Madani Tv
+http://175.107.244.52:4456/play/a02j/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Muntazir TV
+http://175.107.244.52:4456/play/a02m/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",PTV World
+http://175.107.244.52:4456/play/a043/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",PTV-Home
+http://175.107.244.52:4456/play/a03z/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Raavi TV
+http://175.107.244.52:4456/play/a04v/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",SAB TV
+http://175.107.244.52:4456/play/a04f/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",SET ENTERTAINMENT
+http://175.107.244.52:4456/play/a06d/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",SINDH TV
+http://175.107.244.52:4456/play/a04a/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Suno Tv
+http://175.107.244.52:4456/play/a072/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",TV One
+http://175.107.244.52:4456/play/a046/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",TV Today
+http://175.107.244.52:4456/play/a02d/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Venus TV
+http://175.107.244.52:4456/play/a02a/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ARY Digital HD
+http://175.107.244.52:4456/play/a051/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ARY Zindagi
+http://175.107.244.52:4456/play/a050/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",AUR Life
+http://175.107.244.52:4456/play/a04l/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Al Majid
+http://175.107.244.52:4456/play/a06q/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Al Majid (HVC)
+http://175.107.244.52:4456/play/a064/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Apna Channel
+http://175.107.244.52:4456/play/a03y/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Avt Khyber
+http://175.107.244.52:4456/play/a02u/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Cartoon Network  (PAK)
+http://175.107.244.52:4456/play/a05u/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",City 21
+http://175.107.244.52:4456/play/a036/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Discover Pakistan
+http://175.107.244.52:4456/play/a049/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",EBRAVO  Comedy Central Family HD
+http://175.107.244.52:4456/play/a02s/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",EMG CINEWORLD HD
+http://175.107.244.52:4456/play/a07d/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",EMG HUNGAMA HD
+http://175.107.244.52:4456/play/a07f/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",EMG ISLAMIC VISION
+http://175.107.244.52:4456/play/a07h/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",EMG RHYTHM HD
+http://175.107.244.52:4456/play/a07e/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",EMG SADABAHAR HD
+http://175.107.244.52:4456/play/a07b/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",EMG TAZA HD
+http://175.107.244.52:4456/play/a07c/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ENG CITY 21
+http://175.107.244.52:4456/play/a07g/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",FILMAX
+http://175.107.244.52:4456/play/a076/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",GNN
+http://175.107.244.52:4456/play/a028/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",GREEN ENT
+http://175.107.244.52:4456/play/a06g/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",In House 1
+http://175.107.244.52:4456/play/a02e/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",In House 2
+http://175.107.244.52:4456/play/a02f/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",KTN ENT
+http://175.107.244.52:4456/play/a04s/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Kay 2
+http://175.107.244.52:4456/play/a02w/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Kidzone+
+http://175.107.244.52:4456/play/a05d/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",LTN Family
+http://175.107.244.52:4456/play/a06k/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",PLANET FUN
+http://175.107.244.52:4456/play/a06w/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Paigham Pashto
+http://175.107.244.52:4456/play/a02o/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",SALAM YA HUSSAIN
+http://175.107.244.52:4456/play/a06c/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Saudi QURAN
+http://175.107.244.52:4456/play/a075/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",8XM
+http://175.107.244.52:4456/play/a03x/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Jalwa Music
+http://175.107.244.52:4456/play/a03w/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",24 News
+http://175.107.244.52:4456/play/a031/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",365 NEWS
+http://175.107.244.52:4456/play/a06u/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",92 News
+http://175.107.244.52:4456/play/a04h/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ABN NEWS
+http://175.107.244.52:4456/play/a06y/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",AGN NEWS HVC
+http://175.107.244.52:4456/play/a07a/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",AIK NEWS
+http://175.107.244.52:4456/play/a04e/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ARY News
+http://175.107.244.52:4456/play/a04y/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ASIA ONE NEWS  HVC
+http://175.107.244.52:4456/play/a07j/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",AWAZ NEWS ( HVC )
+http://175.107.244.52:4456/play/a07n/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Aaj News
+http://175.107.244.52:4456/play/a02y/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Abb Tak News
+http://175.107.244.52:4456/play/a03v/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",BBC NEWS
+http://175.107.244.52:4456/play/a079/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",BOL News
+http://175.107.244.52:4456/play/a05j/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",CAPITAL NEWS
+http://175.107.244.52:4456/play/a05g/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",CNN
+http://175.107.244.52:4456/play/a067/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Channel 5 News
+http://175.107.244.52:4456/play/a068/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Dawn News
+http://175.107.244.52:4456/play/a04g/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Dunya News
+http://175.107.244.52:4456/play/a04m/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Express News
+http://175.107.244.52:4456/play/a037/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",GTV News
+http://175.107.244.52:4456/play/a04i/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Geo News
+http://175.107.244.52:4456/play/a06o/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",K21 News (HVC
+http://175.107.244.52:4456/play/a05w/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",KTN News
+http://175.107.244.52:4456/play/a04t/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Khyber News
+http://175.107.244.52:4456/play/a02v/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Metro One News
+http://175.107.244.52:4456/play/a05h/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",NTN NEWS
+http://175.107.244.52:4456/play/a07m/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Neo News
+http://175.107.244.52:4456/play/a044/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",News One
+http://175.107.244.52:4456/play/a047/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",OCEAN NEWS  HVC
+http://175.107.244.52:4456/play/a07i/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",PTV NEWS HD
+http://175.107.244.52:4456/play/a040/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Public News
+http://175.107.244.52:4456/play/a02k/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Roze News
+http://175.107.244.52:4456/play/a02b/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",SUCH NEWS HVC
+http://175.107.244.52:4456/play/a078/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Samaa News
+http://175.107.244.52:4456/play/a04j/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Sindh News
+http://175.107.244.52:4456/play/a04b/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Times News HD
+http://175.107.244.52:4456/play/a06f/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ARY A SportsHD
+http://175.107.244.52:4456/play/a04p/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",EBRAVO EURO SPORTS 1
+http://175.107.244.52:4456/play/a061/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",FAST SPORTS HD
+http://175.107.244.52:4456/play/a06m/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",PTV SPORTS HD
+http://175.107.244.52:4456/play/a042/index.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Ten Sports
+http://175.107.244.52:4456/play/a05v/index.m3u8
+
