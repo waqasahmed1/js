@@ -1,4 +1,46 @@
+
 #EXTM3U
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="ESPORTES",BAND SPORTS FHD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665781.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="ESPORTES",BAND SPORTS HD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665782.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="ESPORTES",BAND SPORTS SD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665783.m3u8
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="PARAMOUNT+",PARAMOUNT+ 01 FHD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665847.m3u8
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 01 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="PARAMOUNT+",PARAMOUNT+ 01 HD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665848.m3u8
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="PARAMOUNT+",PARAMOUNT+ 02 FHD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665849.m3u8
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 02 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="PARAMOUNT+",PARAMOUNT+ 02 HD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665850.m3u8
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="PARAMOUNT+",PARAMOUNT+ 03 FHD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665851.m3u8
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 03 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="PARAMOUNT+",PARAMOUNT+ 03 HD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665852.m3u8
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="PARAMOUNT+ 04 FHD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="PARAMOUNT+",PARAMOUNT+ 04 FHD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 04 HD" tvg-logo="https://img.hotice.site/icones_channels/Paramount+_1.png" group-title="PARAMOUNT+",PARAMOUNT+ 04 HD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665854.m3u8
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV 01 FHD" tvg-logo="https://img.hotice.site/icones_channels/SporTV_HD.png" group-title="SPORTV",SPORTV 01 FHD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665887.m3u8
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV 01 HD" tvg-logo="https://img.hotice.site/icones_channels/SporTV_HD.png" group-title="SPORTV",SPORTV 01 HD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665888.m3u8
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV 01 SD" tvg-logo="https://img.hotice.site/icones_channels/SporTV_HD.png" group-title="SPORTV",SPORTV 01 SD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665889.m3u8
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SPORTV 02 FHD" tvg-logo="https://img.hotice.site/icones_channels/SporTV2_HD.png" group-title="SPORTV",SPORTV 02 FHD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665890.m3u8
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SPORTV 02 HD" tvg-logo="https://img.hotice.site/icones_channels/SporTV2_HD.png" group-title="SPORTV",SPORTV 02 HD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665891.m3u8
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SPORTV 02 SD" tvg-logo="https://img.hotice.site/icones_channels/SporTV2_HD.png" group-title="SPORTV",SPORTV 02 SD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665892.m3u8
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SPORTV 03 FHD" tvg-logo="https://img.hotice.site/icones_channels/SporTV3_HD.png" group-title="SPORTV",SPORTV 03 FHD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665893.m3u8
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SPORTV 03 HD" tvg-logo="https://img.hotice.site/icones_channels/SporTV3_HD.png" group-title="SPORTV",SPORTV 03 HD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665894.m3u8
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SPORTV 03 SD" tvg-logo="https://img.hotice.site/icones_channels/SporTV3_HD.png" group-title="SPORTV",SPORTV 03 SD
+http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665895.m3u8
+
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS UHD²" tvg-logo="https://i.postimg.cc/K8kHHJ1L/bandsports-logo.png" group-title="CANAIS I ESPORTES",BAND SPORTS UHD²
 http://xui.brfontes.fun:80/138284362/124796521/12326582.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD" tvg-logo="http://img.slim.re/imagens/canais/Band-Sports.png" group-title="CANAIS I ESPORTES",Band Sports FHD
