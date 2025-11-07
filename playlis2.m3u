@@ -373,3 +373,20 @@ http://xui.brfontes.fun:80/138284362/124796521/12326637.m3u8
 http://xui.brfontes.fun:80/138284362/124796521/12326638.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="http://img.slim.re/imagens/canais/sportv-3.png" group-title="CANAIS I SPORTV",SporTV 3 SD
 http://xui.brfontes.fun:80/138284362/124796521/12326639.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="CRICKET LIVE",A SPORTS
+http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="CRICKET LIVE",PTV SPORTS
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="CRICKET LIVE",SONY SPORTS 3
+http://66.102.120.18:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="CRICKET LIVE",STAR SPORTS S1
+http://66.102.120.18:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="CRICKET LIVE",STAR SPORTS S2
+http://66.102.120.18:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="CRICKET LIVE",STAR SPORTS 2 HINDI
+http://66.102.120.18:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="CRICKET LIVE",TEN SPORTS
+http://66.102.120.18:8000/play/a00d/index.m3u8
+
+
