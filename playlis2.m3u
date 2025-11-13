@@ -1,4 +1,34 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="CRICKET",O11| CRICBUZ-1
+http://124.29.225.205:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="CRICKET",O11| CRICBUZ-2
+http://124.29.225.205:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="CRICKET",O11| TNT Sports 1 HD
+http://124.29.225.205:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="CRICKET",SUR | Sky Sports Cricket HD
+http://124.29.225.205:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Eurosports HD
+http://124.29.225.205:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Sony Ten 1 HD
+http://124.29.225.205:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Sony Ten 2 HD
+http://124.29.225.205:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Sony Ten 3 HD
+http://124.29.225.205:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Sony Ten 5 HD
+http://124.29.225.205:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Star Movies Select HD
+http://124.29.225.205:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Star Sports 1 HD
+http://124.29.225.205:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Star Sports 2 HD
+http://124.29.225.205:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Star Sports 2 Hindi HD
+http://124.29.225.205:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Star Sports Select 1 HD
+http://124.29.225.205:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TS | Star Sports Select 2 HD
+http://124.29.225.205:8000/play/a005/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://img.hotice.site/icones_channels/BAND_Sports_HD.png" group-title="ESPORTES",BAND SPORTS FHD
 http://urlapghdtoumix.maistv.xyz:80/534172591/129644314/4665781.m3u8
