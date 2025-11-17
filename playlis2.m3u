@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="CRICKET", ASTRO SPORTS CRICKET
+http://103.240.44.26/Astro-Cricket/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 group-title="CRICKET", SKY SPORTS CRICKET
+http://178.33.239.54:8080/503a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CRICKET",O11| SKY SPORTS CRICKET
 http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 group-title="CRICKET",O11| STAR SPORTS CRICKET
