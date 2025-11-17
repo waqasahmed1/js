@@ -1,12 +1,36 @@
 #EXTM3U
-#EXTINF:-1 group-title="CRICKET", ASTRO SPORTS CRICKET
-http://103.240.44.26/Astro-Cricket/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 group-title="CRICKET", SKY SPORTS CRICKET
 http://178.33.239.54:8080/503a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CRICKET",O11| SKY SPORTS CRICKET
 http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 group-title="CRICKET",O11| STAR SPORTS CRICKET
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CRICKET",WILLOW CRICKET
+http://xcservers.xyz:8080/live/hGXR6Kdw57/hdTzgkuSwn/629351.m3u8
+#EXTINF:-1 group-title="CRICKET",SKY SPORTS CRICKET 1
+http://xcservers.xyz:8080/live/hGXR6Kdw57/hdTzgkuSwn/308051.m3u8
+#EXTINF:-1 group-title="CRICKET",SKY SPORTS CRICKET 2
+http://xcservers.xyz:8080/live/hGXR6Kdw57/hdTzgkuSwn/665084.m3u8
+#EXTINF:-1 group-title="CRICKET",SKY SPORTS CRICKET 3
+http://xcservers.xyz:8080/live/hGXR6Kdw57/hdTzgkuSwn/308052.m3u8
+#EXTINF:-1 group-title="CRICKET",CRICKET WILLOW
+http://318798.net:80/live/c9b80d4a4f849ead30df27fe2186c777/5ac2e1033d1eef21f681/64658.m3u8
+#EXTINF:-1 group-title="CRICKET",CRICKET LIFE
+http://318798.net:80/live/c9b80d4a4f849ead30df27fe2186c777/5ac2e1033d1eef21f681/64657.m3u8
+#EXTINF:-1 group-title="CRICKET",A SPORTS
+http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="CRICKET",PTV SPORTS
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="CRICKET",SONY SPORTS 3
+http://66.102.120.18:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="CRICKET",STAR SPORTS S1
+http://66.102.120.18:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="CRICKET",STAR SPORTS S2
+http://66.102.120.18:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="CRICKET",STAR SPORTS 2 HINDI
+http://66.102.120.18:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="CRICKET",TEN SPORTS
+http://66.102.120.18:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="CRICKET",O11| CRICBUZ-1
 http://124.29.225.205:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="CRICKET",O11| CRICBUZ-2
@@ -411,33 +435,7 @@ http://xui.brfontes.fun:80/138284362/124796521/12326637.m3u8
 http://xui.brfontes.fun:80/138284362/124796521/12326638.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="http://img.slim.re/imagens/canais/sportv-3.png" group-title="CANAIS I SPORTV",SporTV 3 SD
 http://xui.brfontes.fun:80/138284362/124796521/12326639.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="CRICKET LIVE",WILLOW CRICKET
-http://xcservers.xyz:8080/live/hGXR6Kdw57/hdTzgkuSwn/629351.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",SKY SPORTS CRICKET 1
-http://xcservers.xyz:8080/live/hGXR6Kdw57/hdTzgkuSwn/308051.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",SKY SPORTS CRICKET 2
-http://xcservers.xyz:8080/live/hGXR6Kdw57/hdTzgkuSwn/665084.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",SKY SPORTS CRICKET 3
-http://xcservers.xyz:8080/live/hGXR6Kdw57/hdTzgkuSwn/308052.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",CRICKET WILLOW
-http://318798.net:80/live/c9b80d4a4f849ead30df27fe2186c777/5ac2e1033d1eef21f681/64658.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",CRICKET LIFE
-http://318798.net:80/live/c9b80d4a4f849ead30df27fe2186c777/5ac2e1033d1eef21f681/64657.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",A SPORTS
-http://66.102.120.18:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",PTV SPORTS
-http://66.102.120.18:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",SONY SPORTS 3
-http://66.102.120.18:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",STAR SPORTS S1
-http://66.102.120.18:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",STAR SPORTS S2
-http://66.102.120.18:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",STAR SPORTS 2 HINDI
-http://66.102.120.18:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="CRICKET LIVE",TEN SPORTS
-http://66.102.120.18:8000/play/a00d/index.m3u8
+
 
 
 
