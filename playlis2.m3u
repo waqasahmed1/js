@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="CRICKET",SONY SPORTS
+http://103.124.180.30:8086/SONY-TEN-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CRICKET",T-SPORTS
+http://103.124.180.30:8086/Live-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CRICKET",SONY SPORTS 5
+http://103.124.180.30:8086/SONY-TEN-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CRICKET",STAR SPORT SELECT
+http://103.124.180.30:8086/SPL-1/index.m3u8
+#EXTINF:-1 group-title="CRICKET",STAR SPORTS SELECT 2
+http://103.124.180.30:8086/SPL-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CRICKET",STARSPORTS 1 HD
+http://103.124.180.30:8086/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CRICKET",STAR SPORTS  2 HD
+http://103.124.180.30:8086/STAR-SPORTS-2/index.m3u8
 #EXTINF:-1 group-title="CRICKET", SKY SPORTS CRICKET
 http://178.33.239.54:8080/503a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CRICKET",O11| SKY SPORTS CRICKET
