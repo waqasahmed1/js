@@ -1994,3 +1994,184 @@ http://eupars1.xyz:8080/live/hdkaptantv0710/kptn@5040710/2020.m3u8
 http://eupars1.xyz:8080/live/hdkaptantv0710/kptn@5040710/2048.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX" tvg-logo="https://tvlogo.nl/files/ch/TR/fightbox.png" group-title="TR ⭐ SPOR",FIGHTBOX
 http://eupars1.xyz:8080/live/hdkaptantv0710/kptn@5040710/2047.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD" tvg-logo="https://cdn4k.store/logos/combate.png" group-title="ESPORTES",Combate FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/16866.m3u8
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD²" tvg-logo="https://cdn4k.store/logos/combate.png" group-title="ESPORTES",Combate FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/35444.m3u8
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD" tvg-logo="https://cdn4k.store/logos/combate.png" group-title="ESPORTES",Combate HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6625.m3u8
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD²" tvg-logo="https://cdn4k.store/logos/combate.png" group-title="ESPORTES",Combate HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6871.m3u8
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD" tvg-logo="https://cdn4k.store/logos/combate.png" group-title="ESPORTES",Combate SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6624.m3u8
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD²" tvg-logo="https://cdn4k.store/logos/combate.png" group-title="ESPORTES",Combate SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10851.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports FHD" tvg-logo="https://cdn4k.store/logos/bandsports.png" group-title="ESPORTES",Band Sports FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6638.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports FHD²" tvg-logo="https://cdn4k.store/logos/bandsports.png" group-title="ESPORTES",Band Sports FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/16879.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports HD" tvg-logo="https://cdn4k.store/logos/bandsports.png" group-title="ESPORTES",Band Sports HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10865.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports HD²" tvg-logo="https://cdn4k.store/logos/bandsports.png" group-title="ESPORTES",Band Sports HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/35414.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports SD" tvg-logo="https://cdn4k.store/logos/bandsports.png" group-title="ESPORTES",Band Sports SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6637.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports SD²" tvg-logo="https://cdn4k.store/logos/bandsports.png" group-title="ESPORTES",Band Sports SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dsports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkS14w5tBfhJCywSaVmnWaI3Xjf8zI0aW5w&s" group-title="ESPORTES",Dsports HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/217379.m3u8
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="Fight TV FHD" tvg-logo="https://cdn4k.store/logos/UFC-FIGHT.png" group-title="ESPORTES",Fight TV FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/168152.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD" tvg-logo="https://cdn4k.store/logos/fishtv.png" group-title="ESPORTES",Fish TV FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/28649.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD²" tvg-logo="https://cdn4k.store/logos/fishtv.png" group-title="ESPORTES",Fish TV FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/61638.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://cdn4k.store/logos/fishtv.png" group-title="ESPORTES",Fish TV HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10819.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD²" tvg-logo="https://cdn4k.store/logos/fishtv.png" group-title="ESPORTES",Fish TV HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/61637.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://cdn4k.store/logos/fishtv.png" group-title="ESPORTES",Fish TV SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6586.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD²" tvg-logo="https://cdn4k.store/logos/fishtv.png" group-title="ESPORTES",Fish TV SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GE Fast FHD" tvg-logo="https://cdn4k.store/logos/GE-FAST.png" group-title="ESPORTES",GE Fast FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/221506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GE Fast HD" tvg-logo="https://cdn4k.store/logos/GE-FAST.png" group-title="ESPORTES",GE Fast HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/254017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GE Fast SD" tvg-logo="https://cdn4k.store/logos/GE-FAST.png" group-title="ESPORTES",GE Fast SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/254018.m3u8
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FHD" tvg-logo="https://cdn4k.store/logos/off.png" group-title="ESPORTES",OFF FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/16833.m3u8
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FHD²" tvg-logo="https://cdn4k.store/logos/off.png" group-title="ESPORTES",OFF FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/100454.m3u8
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="https://cdn4k.store/logos/off.png" group-title="ESPORTES",OFF HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6519.m3u8
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD²" tvg-logo="https://cdn4k.store/logos/off.png" group-title="ESPORTES",OFF HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10726.m3u8
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD" tvg-logo="https://cdn4k.store/logos/off.png" group-title="ESPORTES",OFF SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6418.m3u8
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD²" tvg-logo="https://cdn4k.store/logos/off.png" group-title="ESPORTES",OFF SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Nsports 24h FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzXFoE5yO45o7-Zd5uOH4qV58lyEuJWSAlcjyyFksb6WxXf6eob1hGcx5wV4yDBDtCoG8&usqp=CAU" group-title="ESPORTES",TV Nsports 24h FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/180820.m3u8
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC  Fight TV" tvg-logo="https://cdn4k.store/logos/UFC-FIGHT.png" group-title="ESPORTES",UFC  Fight TV
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/217457.m3u8
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC  Fight Pass" tvg-logo="https://cdn4k.store/logos/UFC-FIGHT.png" group-title="ESPORTES",UFC  Fight Pass
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/217462.m3u8
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC  Fight Pass 2" tvg-logo="https://cdn4k.store/logos/UFC-FIGHT.png" group-title="ESPORTES",UFC  Fight Pass 2
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/221346.m3u8
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV FHD" tvg-logo="https://cdn4k.store/logos/sportv.png" group-title="SPORTV",SporTV FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6928.m3u8
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV FHD²" tvg-logo="https://cdn4k.store/logos/sportv.png" group-title="SPORTV",SporTV FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/16821.m3u8
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV HD" tvg-logo="https://cdn4k.store/logos/sportv.png" group-title="SPORTV",SporTV HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/34875.m3u8
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV HD²" tvg-logo="https://cdn4k.store/logos/sportv.png" group-title="SPORTV",SporTV HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6882.m3u8
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV SD" tvg-logo="https://cdn4k.store/logos/sportv.png" group-title="SPORTV",SporTV SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6481.m3u8
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV SD²" tvg-logo="https://cdn4k.store/logos/sportv.png" group-title="SPORTV",SporTV SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10693.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 FHD" tvg-logo="https://cdn4k.store/logos/sportv2.png" group-title="SPORTV",SporTV 2 FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6942.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 FHD²" tvg-logo="https://cdn4k.store/logos/sportv2.png" group-title="SPORTV",SporTV 2 FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/16819.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 HD" tvg-logo="https://cdn4k.store/logos/sportv2.png" group-title="SPORTV",SporTV 2 HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6480.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 HD²" tvg-logo="https://cdn4k.store/logos/sportv2.png" group-title="SPORTV",SporTV 2 HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6872.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 SD" tvg-logo="https://cdn4k.store/logos/sportv2.png" group-title="SPORTV",SporTV 2 SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6479.m3u8
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 SD²" tvg-logo="https://cdn4k.store/logos/sportv2.png" group-title="SPORTV",SporTV 2 SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10692.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 FHD" tvg-logo="https://cdn4k.store/logos/sportv3.png" group-title="SPORTV",SporTV 3 FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10371.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 FHD²" tvg-logo="https://cdn4k.store/logos/sportv3.png" group-title="SPORTV",SporTV 3 FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6916.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 HD" tvg-logo="https://cdn4k.store/logos/sportv3.png" group-title="SPORTV",SporTV 3 HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6478.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 HD²" tvg-logo="https://cdn4k.store/logos/sportv3.png" group-title="SPORTV",SporTV 3 HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10690.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 SD" tvg-logo="https://cdn4k.store/logos/sportv3.png" group-title="SPORTV",SporTV 3 SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6477.m3u8
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 SD²" tvg-logo="https://cdn4k.store/logos/sportv3.png" group-title="SPORTV",SporTV 3 SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 FHD" tvg-logo="https://cdn4k.ink/logos/SPORTV4.png" group-title="SPORTV",SporTV 4 FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/253832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 HD" tvg-logo="https://cdn4k.ink/logos/SPORTV4.png" group-title="SPORTV",SporTV 4 HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/253831.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6958.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/16856.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6589.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6887.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6588.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10823.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="https://cdn4k.store/logos/espn2.png" group-title="ESPN",ESPN 2 FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6932.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD²" tvg-logo="https://cdn4k.store/logos/espn2.png" group-title="ESPN",ESPN 2 FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/26161.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://cdn4k.store/logos/espn2.png" group-title="ESPN",ESPN 2 HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6587.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD²" tvg-logo="https://cdn4k.store/logos/espn2.png" group-title="ESPN",ESPN 2 HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6591.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD" tvg-logo="https://cdn4k.store/logos/espn2.png" group-title="ESPN",ESPN 2 SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6590.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD²" tvg-logo="https://cdn4k.store/logos/espn2.png" group-title="ESPN",ESPN 2 SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10826.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 3 FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/26155.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 3 FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/26154.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 3 HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10824.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 3 HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/26156.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 SD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 3 SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10825.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 SD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 3 SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/100463.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 4 FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10364.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 4 FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/16852.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 4 HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6577.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 4 HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10809.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 SD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 4 SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6576.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 SD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 4 SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10810.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 FHD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 5 FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10363.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 FHD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 5 FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/16851.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 HD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 5 HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6575.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 HD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 5 HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10807.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 SD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 5 SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6574.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 SD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 5 SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/10808.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 FHD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 6 FHD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/17077.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 FHD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 6 FHD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/21123.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 HD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 6 HD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/26159.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 HD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 6 HD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/26158.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 SD" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 6 SD
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/6592.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 SD²" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="ESPN",ESPN 6 SD²
+http://cdn4k.club:80/live/13vv5931/p9o52t1j0/26157.m3u8
+
