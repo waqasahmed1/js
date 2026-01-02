@@ -93,8 +93,6 @@ http://124.29.225.205:8000/play/a009/index.m3u8
 http://124.29.225.205:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="CRICKET",TS | Sony Ten 5 HD
 http://124.29.225.205:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="CRICKET",TS | Star Movies Select HD
-http://124.29.225.205:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CRICKET",TS | Star Sports 1 HD
 http://124.29.225.205:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="CRICKET",TS | Star Sports 2 HD
