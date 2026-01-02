@@ -103,7 +103,842 @@ http://124.29.225.205:8000/play/a004/index.m3u8
 http://124.29.225.205:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="CRICKET",TS | Star Sports Select 2 HD
 http://124.29.225.205:8000/play/a005/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET FHD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPy8OBg1YnedTPv-Xq28XDA78Yk6LmIXu_glDcQTwbzyw.png" group-title="CRICKET",UK: SKY SPORTS CRICKET FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1119858.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK : SKY SPORTS CRICKET FHD" tvg-logo="" group-title="CRICKET",UK : SKY SPORTS CRICKET FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1135588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET VIP HD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyB3-7xmIuOeQ213xrjRJxsGkajdliwFUHGqXIDg7KXYcA.png" group-title="CRICKET",UK: SKY SPORTS CRICKET VIP HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1185184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUPERSPORTS CRICKET [LIVE DURING EVENTS ONLY] HD" tvg-logo="" group-title="CRICKET",IN: SUPERSPORTS CRICKET [LIVE DURING EVENTS ONLY] HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1188542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT CRICKET [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn3tHxVyuMRu_PlkwZX0iPzTsUkWSHIWRp8s8fumOz5L8A.png" group-title="CRICKET",AF: SUPERSPORT CRICKET [LIVE DURING EVENTS ONLY] FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1193276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SKY SPORTS CRICKET HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YC-BhxALEWBs62g3tXktip5MpAqpPvZOWlpQPgswtztfd1Itm5ixXxCZ7KQYiNZjIA.png" group-title="CRICKET",IN: SKY SPORTS CRICKET HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1194400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT CRICKET [LIVE DURING EVENTS ONLY] HD" tvg-logo="" group-title="CRICKET",AF: SUPERSPORT CRICKET [LIVE DURING EVENTS ONLY] HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1197759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SKY SPORTS HD CRICKET HD HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YC-BhxALEWBs62g3tXktip5MpAqpPvZOWlpQPgswtztfd1Itm5ixXxCZ7KQYiNZjIA.png" group-title="CRICKET",IN: SKY SPORTS HD CRICKET HD HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1197913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SKY SPORTS HD CRICKET FHD" tvg-logo="" group-title="CRICKET",IN: SKY SPORTS HD CRICKET FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1197914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SKY SPORTS HD CRICKET HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YC-BhxALEWBs62g3tXktip5MpAqpPvZOWlpQPgswtztfd1Itm5ixXxCZ7KQYiNZjIA.png" group-title="CRICKET",IN: SKY SPORTS HD CRICKET HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1197915.m3u8
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET FHD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPy8OBg1YnedTPv-Xq28XDA78Yk6LmIXu_glDcQTwbzyw.png" group-title="CRICKET",UK: SKY SPORTS CRICKET FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/812801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET VIP FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyB3-7xmIuOeQ213xrjRJxsGkajdliwFUHGqXIDg7KXYcA.png" group-title="CRICKET",UK: SKY SPORTS CRICKET VIP FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1191341.m3u8
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="US: WILLOW CRICKET HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yq4h5yH6PuCQaDtpdMJtGik_HCZTwgvLaAO5cexOBiErg.png" group-title="CRICKET",US: WILLOW CRICKET HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1137639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SKY SPORTS CRICKET HD" tvg-logo="" group-title="CRICKET",IN: SKY SPORTS CRICKET HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1185466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUPERSPORTS CRICKET [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="CRICKET",IN: SUPERSPORTS CRICKET [LIVE DURING EVENTS ONLY] FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1156954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ASTRO CRICKET HD (MATCH TIME) HD" tvg-logo="" group-title="CRICKET",IN: ASTRO CRICKET HD (MATCH TIME) HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1141699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: WILLOW CRICKET FHD" tvg-logo="" group-title="CRICKET",IN: WILLOW CRICKET FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1077446.m3u8
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES DEPORTES",ES: #VAMOS HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/321072.m3u8
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES DEPORTES",ES: #VAMOS SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/321073.m3u8
+#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B.png" group-title="ES DEPORTES",ES: M+ GOLF FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/268094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="ES DEPORTES",ES: BARCA TV SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/340036.m3u8
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL FHD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES DEPORTES",ES: GOL FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/340038.m3u8
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL HD" tvg-logo="" group-title="ES DEPORTES",ES: GOL HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/340039.m3u8
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES DEPORTES",ES: GOL SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/340040.m3u8
+#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/454216.m3u8
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="ES: BETIS TV SD" tvg-logo="https://miguia.tv/channels/big_761.png" group-title="ES DEPORTES",ES: BETIS TV SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/463948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FIGHT TIME HD" tvg-logo="https://up6.cc/2023/01/167434852711341.png" group-title="ES DEPORTES",ES: FIGHT TIME HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/463949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: GO&GO FHD" tvg-logo="https://www.goandgotv.com/images/GO_AND_GO_.png" group-title="ES DEPORTES",ES: GO&GO FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/463950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA FC SD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/lqsi2EoWzbtYs9psv63qNCbz48psST0k.png" group-title="ES DEPORTES",ES: SEVILLA FC SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/463951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE HD" tvg-logo="" group-title="ES DEPORTES",ES: DBIKE HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/466753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ELLAS #V HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="ES DEPORTES",ES: ELLAS #V HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/466755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV HD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/uUBlkv56wQweQBewe-CZYALQilaan_0A.png" group-title="ES DEPORTES",ES: MOTO ADV HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/466762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGASPORTSTV FHD" tvg-logo="https://dyncont.masmediatv.es/channel_logos/5mhgt0de04nhJyvrHbHfmXuyu1tVwsPS_viewer.png" group-title="ES DEPORTES",ES: LIGASPORTSTV FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/497614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGASPORTSTV HD" tvg-logo="https://dyncont.masmediatv.es/channel_logos/5mhgt0de04nhJyvrHbHfmXuyu1tVwsPS_viewer.png" group-title="ES DEPORTES",ES: LIGASPORTSTV HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/497615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGASPORTSTV SD" tvg-logo="https://dyncont.masmediatv.es/channel_logos/5mhgt0de04nhJyvrHbHfmXuyu1tVwsPS_viewer.png" group-title="ES DEPORTES",ES: LIGASPORTSTV SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/497616.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-name="ES: M+ DEPORTES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR" group-title="ES DEPORTES",ES: M+ DEPORTES 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538679.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-name="ES: M+ DEPORTES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR" group-title="ES DEPORTES",ES: M+ DEPORTES 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538680.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-name="ES: M+ DEPORTES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR" group-title="ES DEPORTES",ES: M+ DEPORTES 2 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538681.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2" group-title="ES DEPORTES",ES: M+ DEPORTES 3 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538682.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2" group-title="ES DEPORTES",ES: M+ DEPORTES 3 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538683.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2" group-title="ES DEPORTES",ES: M+ DEPORTES 3 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538684.m3u8
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="ES: M+ DEPORTES 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3" group-title="ES DEPORTES",ES: M+ DEPORTES 4 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538685.m3u8
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES: M+ DEPORTES 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11" group-title="ES DEPORTES",ES: M+ DEPORTES 5 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538688.m3u8
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES: M+ DEPORTES 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11" group-title="ES DEPORTES",ES: M+ DEPORTES 5 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538689.m3u8
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES: M+ DEPORTES 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11" group-title="ES DEPORTES",ES: M+ DEPORTES 5 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538690.m3u8
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="ES: M+ DEPORTES 6 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8" group-title="ES DEPORTES",ES: M+ DEPORTES 6 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538691.m3u8
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="ES: M+ DEPORTES 6 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8" group-title="ES DEPORTES",ES: M+ DEPORTES 6 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538692.m3u8
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="ES: M+ DEPORTES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8" group-title="ES DEPORTES",ES: M+ DEPORTES 6 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538693.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 7.es" tvg-name="ES: M+ DEPORTES 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6" group-title="ES DEPORTES",ES: M+ DEPORTES 7 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538694.m3u8
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M+ DEPORTES FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="ES DEPORTES",ES: M+ DEPORTES FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538695.m3u8
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M+ DEPORTES HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="ES DEPORTES",ES: M+ DEPORTES HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538696.m3u8
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M+ DEPORTES SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="ES DEPORTES",ES: M+ DEPORTES SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538698.m3u8
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES DEPORTES",ES: #VAMOS FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538744.m3u8
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES: BARCA HD" tvg-logo="https://miguia.tv/channels/big_14.png" group-title="ES DEPORTES",ES: BARCA HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538746.m3u8
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES: BARCA SD" tvg-logo="https://miguia.tv/channels/big_14.png" group-title="ES DEPORTES",ES: BARCA SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: MLB HD" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/mlb-tv.png" group-title="ES DEPORTES",ES: MLB HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: NBA HD" tvg-logo="https://w7.pngwing.com/pngs/126/557/png-transparent-nba-logo-2005u201306-nba-season-orlando-magic-the-nba-finals-logo-nba-professional-basketball-logo-free-logo-design-template-text-wedding-logo-thumbnail.png" group-title="ES DEPORTES",ES: NBA HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: NBA SD" tvg-logo="https://w7.pngwing.com/pngs/126/557/png-transparent-nba-logo-2005u201306-nba-season-orlando-magic-the-nba-finals-logo-nba-professional-basketball-logo-free-logo-design-template-text-wedding-logo-thumbnail.png" group-title="ES DEPORTES",ES: NBA SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: NFL NETWORK HD" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" group-title="ES DEPORTES",ES: NFL NETWORK HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" group-title="ES DEPORTES",ES: TENNIS CHANNEL HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538753.m3u8
+#EXTINF:-1 tvg-id="esport3.es" tvg-name="ES: ESPORT 3 SD" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png" group-title="ES DEPORTES",ES: ESPORT 3 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538755.m3u8
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="ES: GOL PLAY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ES DEPORTES",ES: GOL PLAY SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538757.m3u8
+#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538760.m3u8
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="ES DEPORTES",ES: REAL MADRID TV FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538767.m3u8
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV HD" tvg-logo="https://miguia.tv/channels/big_139.png" group-title="ES DEPORTES",ES: REAL MADRID TV HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538768.m3u8
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TDEP" group-title="ES DEPORTES",ES: TELEDEPORTE FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538769.m3u8
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TDEP" group-title="ES DEPORTES",ES: TELEDEPORTE SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/538770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" group-title="ES DEPORTES",ES: TENNIS CHANNEL FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/540949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ELLAS #V FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="ES DEPORTES",ES: ELLAS #V FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/542877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES:Champions Tour SD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png" group-title="ES DEPORTES",ES:Champions Tour SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/545232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES:Champions Tour HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png" group-title="ES DEPORTES",ES:Champions Tour HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/545233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: WIMBLEDON HEVC" tvg-logo="" group-title="ES DEPORTES",ES: WIMBLEDON HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/550864.m3u8
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV SD" tvg-logo="https://miguia.tv/channels/big_139.png" group-title="ES DEPORTES",ES: REAL MADRID TV SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/552967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: GO&GO SD" tvg-logo="https://www.goandgotv.com/images/GO_AND_GO_.png" group-title="ES DEPORTES",ES: GO&GO SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/558675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: WIMBLEDON SD" tvg-logo="" group-title="ES DEPORTES",ES: WIMBLEDON SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/558676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: NFL NETWORK FHD" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" group-title="ES DEPORTES",ES: NFL NETWORK FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/600709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FIGHT TIME FHD" tvg-logo="https://up6.cc/2023/01/167434852711341.png" group-title="ES DEPORTES",ES: FIGHT TIME FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/605497.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 7.es" tvg-name="ES: M+ DEPORTES 7 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI6.png" group-title="ES DEPORTES",ES: M+ DEPORTES 7 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/607435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: NBA FHD" tvg-logo="https://w7.pngwing.com/pngs/126/557/png-transparent-nba-logo-2005u201306-nba-season-orlando-magic-the-nba-finals-logo-nba-professional-basketball-logo-free-logo-design-template-text-wedding-logo-thumbnail.png" group-title="ES DEPORTES",ES: NBA FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/630319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: REDBUL TV FHD" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png" group-title="ES DEPORTES",ES: REDBUL TV FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/630320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ELLAS #V SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="ES DEPORTES",ES: ELLAS #V SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/639620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV SD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/uUBlkv56wQweQBewe-CZYALQilaan_0A.png" group-title="ES DEPORTES",ES: MOTO ADV SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/641281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL SD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TENNIS_CHANNEL_176x122.png?width=3840&height=2160" group-title="ES DEPORTES",ES: TENNIS CHANNEL SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/641282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE FHD" tvg-logo="" group-title="ES DEPORTES",ES: DBIKE FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/644027.m3u8
+#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="ES: M+ PLUS+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES DEPORTES",ES: M+ PLUS+ FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/646233.m3u8
+#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="ES: M+ PLUS+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES DEPORTES",ES: M+ PLUS+ HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/646234.m3u8
+#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="ES: M+ PLUS+ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ES DEPORTES",ES: M+ PLUS+ SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/646235.m3u8
+#EXTINF:-1 tvg-id="Ubeat.es" tvg-name="ES: UBEAT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT" group-title="ES DEPORTES",ES: UBEAT FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/648495.m3u8
+#EXTINF:-1 tvg-id="Ubeat.es" tvg-name="ES: UBEAT HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT" group-title="ES DEPORTES",ES: UBEAT HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/648496.m3u8
+#EXTINF:-1 tvg-id="Ubeat.es" tvg-name="ES: UBEAT SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT" group-title="ES DEPORTES",ES: UBEAT SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/648497.m3u8
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name="ES: M+ PLUS+ 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2" group-title="ES DEPORTES",ES: M+ PLUS+ 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/653199.m3u8
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name="ES: M+ PLUS+ 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2" group-title="ES DEPORTES",ES: M+ PLUS+ 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/653200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 8 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI9" group-title="ES DEPORTES",ES: M+ DEPORTES 8 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/716704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ELLAS #VAMOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="ES DEPORTES",ES: M+ ELLAS #VAMOS FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/720855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ELLAS #VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="ES DEPORTES",ES: M+ ELLAS #VAMOS HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/743756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA FC HD" tvg-logo="https://seeklogo.com/images/S/Sevilla_FC-logo-22429ABB6A-seeklogo.com.png" group-title="ES DEPORTES",ES: SEVILLA FC HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/744338.m3u8
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL PLAY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ES DEPORTES",ES: GOL PLAY
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/754589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 2" tvg-logo="" group-title="ES DEPORTES",ES: M+ DEPORTES 2
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/754591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png" group-title="ES DEPORTES",ES: M+ DEPORTES 3
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/754592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png" group-title="ES DEPORTES",ES: M+ DEPORTES 4
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/754593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP11.png" group-title="ES DEPORTES",ES: M+ DEPORTES 5
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/754594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI8.png" group-title="ES DEPORTES",ES: M+ DEPORTES 6
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/754595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI6.png" group-title="ES DEPORTES",ES: M+ DEPORTES 7
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/754596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV FHD" tvg-logo="" group-title="ES DEPORTES",ES: MOTO ADV FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/754597.m3u8
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://miguia.tv/channels/big_162.png" group-title="ES DEPORTES",ES: TELEDEPORTE
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/754601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV FHD" tvg-logo="https://static.dazndn.com/chapters/web/catalog/rallyTvLogo.png" group-title="ES DEPORTES",ES: RALLY TV FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/771303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FIGHT SPORT HD" tvg-logo="" group-title="ES DEPORTES",ES: FIGHT SPORT HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/771707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE SD" tvg-logo="" group-title="ES DEPORTES",ES: DBIKE SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/783531.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 7.es" tvg-name="ES: M+ DEPORTES 7 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6" group-title="ES DEPORTES",ES: M+ DEPORTES 7 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/814425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 8 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI9" group-title="ES DEPORTES",ES: M+ DEPORTES 8 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/814426.m3u8
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: M+ #VAMOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD" group-title="ES DEPORTES",ES: M+ #VAMOS FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/819489.m3u8
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES DEPORTES",ES: EUROSPORT 1 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/828357.m3u8
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES DEPORTES",ES: EUROSPORT 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/828358.m3u8
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES DEPORTES",ES: EUROSPORT 1 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/828359.m3u8
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES DEPORTES",ES: EUROSPORT 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/828360.m3u8
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES DEPORTES",ES: EUROSPORT 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/828361.m3u8
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES DEPORTES",ES: EUROSPORT 2 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/828362.m3u8
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP4K.png" group-title="ES DEPORTES",ES: EUROSPORT HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/859204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREME SPORTS FHD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/WyuSKMe76BlqeUhrFKj8vEqT1etfm_mW.png" group-title="ES DEPORTES",ES: EXTREME SPORTS FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/859205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV FHD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES DEPORTES",ES: GOL TV FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/859206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES DEPORTES",ES: GOL TV HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/859207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES DEPORTES",ES: GOL TV SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/859208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ I #VAMOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="ES DEPORTES",ES: M+ I #VAMOS FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/859209.m3u8
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="ES: BETIS TV FHD" tvg-logo="http://estoxy.net:80/images/678aea940a8155a76a35bb9f26be0d58.png" group-title="ES DEPORTES",ES: BETIS TV FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/862026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL BARCA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="ES DEPORTES",ES: CANAL BARCA TV HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/870705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ WIMBLEDON HEVC" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/POPUHD" group-title="ES DEPORTES",ES: M+ WIMBLEDON HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/874028.m3u8
+#EXTINF:-1 tvg-id="53.movistar" tvg-name="ES: M+ #VAMOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD" group-title="ES DEPORTES",ES: M+ #VAMOS SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/881851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TWITCH IBAI SD" tvg-logo="" group-title="ES DEPORTES",ES: TWITCH IBAI SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/886231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RED BULL TV SD" tvg-logo="" group-title="ES DEPORTES",ES: RED BULL TV SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/891469.m3u8
+#EXTINF:-1 tvg-id="Xtrem Sports.es" tvg-name="ES: FIGHT SPORT SD" tvg-logo="" group-title="ES DEPORTES",ES: FIGHT SPORT SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/893361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES:Champions Tour FHD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png" group-title="ES DEPORTES",ES:Champions Tour FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/897922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES:Champions Tour 2 HD" tvg-logo="" group-title="ES DEPORTES",ES:Champions Tour 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/897923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL BETIS TV SD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/KZgBIILi_tqmGiVZxfvkNATsqx2QctCW.png" group-title="ES DEPORTES",ES: CANAL BETIS TV SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/902947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREME SPORTS SD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/WyuSKMe76BlqeUhrFKj8vEqT1etfm_mW.png" group-title="ES DEPORTES",ES: EXTREME SPORTS SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/902948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ I #VAMOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="ES DEPORTES",ES: M+ I #VAMOS SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/908887.m3u8
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="ES: BETIS TV HD" tvg-logo="https://miguia.tv/channels/big_761.png" group-title="ES DEPORTES",ES: BETIS TV HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/927704.m3u8
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="ES: CANAL BETIS TV FHD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/KZgBIILi_tqmGiVZxfvkNATsqx2QctCW.png" group-title="ES DEPORTES",ES: CANAL BETIS TV FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/940110.m3u8
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ES: ESPORT 3 FHD" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png" group-title="ES DEPORTES",ES: ESPORT 3 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/940111.m3u8
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 8 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI9" group-title="ES DEPORTES",ES: M+ DEPORTES 8 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/958901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FIGHTBOX SD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/VVYaBjEVqz-wFttkd-sfFD1hVOMdJEFE.png" group-title="ES DEPORTES",ES: FIGHTBOX SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/961420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: OLIMPIC CHANNEL FHD" tvg-logo="" group-title="ES DEPORTES",ES: OLIMPIC CHANNEL FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/964276.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel.es" tvg-name="ES: CHANNEL TENNIS HD" tvg-logo="" group-title="ES DEPORTES",ES: CHANNEL TENNIS HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1046982.m3u8
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="ES: M+ DEPORTES 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3" group-title="ES DEPORTES",ES: M+ DEPORTES 4 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1123070.m3u8
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE HEVC" tvg-logo="https://miguia.tv/channels/big_162.png" group-title="ES DEPORTES",ES: TELEDEPORTE HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1128271.m3u8
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="ES: M+ DEPORTES 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3" group-title="ES DEPORTES",ES: M+ DEPORTES 4 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1129922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA ONE TV SD" tvg-logo="https://up6.cc/2025/07/175234142491761.png" group-title="ES DEPORTES",ES: BARCA ONE TV SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1132929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOP BARCA FHD" tvg-logo="https://up6.cc/2025/07/175234131502991.png" group-title="ES DEPORTES",ES: TOP BARCA FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1141631.m3u8
+#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B.png" group-title="ES DEPORTES",ES: M+ GOLF HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1163106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS 2 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/VAM2SD" group-title="ES DEPORTES",ES: M+ #VAMOS 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1177547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/VAM2SD" group-title="ES DEPORTES",ES: M+ #VAMOS 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1179085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS 2 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/VAM2SD" group-title="ES DEPORTES",ES: M+ #VAMOS 2 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1179994.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES: M+ I #VAMOS 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAM2SD.png" group-title="ES DEPORTES",ES: M+ I #VAMOS 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1183002.m3u8
+#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1184529.m3u8
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TDEP" group-title="ES DEPORTES",ES: TELEDEPORTE HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1192873.m3u8
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: M+ #VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD" group-title="ES DEPORTES",ES: M+ #VAMOS HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1193670.m3u8
+#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ES DEPORTES",ES: M+ GOLF SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195078.m3u8
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165385.m3u8
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165392.m3u8
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165393.m3u8
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/262413.m3u8
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: M+ LALIGA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165398.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/268042.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165407.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/320785.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/320786.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK SD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/320789.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/320790.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 FHD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/325771.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 SD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/325772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SMARTBANK 2 HD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/329115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV 3 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/953990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV 4 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/953991.m3u8
+#EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-name="ES: M+ LALIGA TV 5 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 5 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/980273.m3u8
+#EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-name="ES: M+ LALIGA TV 6 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG5" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 6 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/980274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 7 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG6" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 7 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/980275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 8 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 8 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/980276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 9 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 9 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/980277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 10 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 10 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/980278.m3u8
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165257.m3u8
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165418.m3u8
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165419.m3u8
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 FHD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 FHD HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/958754.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/246282.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165358.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA DE CAMPEONES SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165359.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/262412.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/165365.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: LIGA DE CAMPEONES 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282469.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282458.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LIGA DE CAMPEONES 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 3 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282470.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LIGA DE CAMPEONES 3 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 3 HD (OP1)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282471.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES: LIGA DE CAMPEONES 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282472.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES: LIGA DE CAMPEONES 4 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4 HD (OP1)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282473.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LIGA DE CAMPEONES 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 5 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282460.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LIGA DE CAMPEONES 5 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 5 HD (OP1)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282461.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LIGA DE CAMPEONES 6 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 6 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282462.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LIGA DE CAMPEONES 6 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 6 HD (OP1)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282463.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LIGA DE CAMPEONES 7 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 7 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282464.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LIGA DE CAMPEONES 7 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 7 HD (OP1)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282465.m3u8
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LIGA DE CAMPEONES 8 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/282466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 9 HD" tvg-logo="" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 9 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/631350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 MAX HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 1 MAX HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 MAX HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 2 MAX HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 MAX HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS 3 MAX HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 3 PREMIUM HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 PREMIUM HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 MAX HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F655%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS 4 MAX HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 4 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 MAX HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="Bein Sports",AR: BEIN SPORTS 5 MAX HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 MAX HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="Bein Sports",AR: BEIN SPORTS 5 MAX HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5.png" group-title="Bein Sports",AR: BEIN SPORTS 5 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 MAX HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F917%2Fbein-sports-hd-1.png" group-title="Bein Sports",AR: BEIN SPORTS 6 MAX HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein6-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 6 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7.png" group-title="Bein Sports",AR: BEIN SPORTS 7 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 1 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein11-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein12-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 2 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein12-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 3 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein13-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 3 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS FHD" tvg-logo="https://i.pinimg.com/originals/3f/98/fb/3f98fb185d4dc43e090f71b5761e87f9.png" group-title="Bein Sports",AR: BEIN SPORTS NEWS FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS HD" tvg-logo="https://i.pinimg.com/originals/3f/98/fb/3f98fb185d4dc43e090f71b5761e87f9.png" group-title="Bein Sports",AR: BEIN SPORTS NEWS HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 1 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 2 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/333816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKASS EXTRA 1 HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/Alkass_X1.png" group-title="Bein Sports",AR: ALKASS EXTRA 1 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/338232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKASS EXTRA 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/Alkass_X2.png" group-title="Bein Sports",AR: ALKASS EXTRA 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/338233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein.png" group-title="Bein Sports",AR: BEIN SPORTS HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/338234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKASS EXTRA 2 HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/Alkass_X2.png" group-title="Bein Sports",AR: ALKASS EXTRA 2 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/339572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 MAX HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS 3 MAX HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/339575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 MAX HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F655%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS 4 MAX HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/339576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4.png" group-title="Bein Sports",AR: BEIN SPORTS 4 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/339577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 MAX FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="Bein Sports",AR: BEIN SPORTS 5 MAX FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/339578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 MAX HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F917%2Fbein-sports-hd-1.png" group-title="Bein Sports",AR: BEIN SPORTS 6 MAX HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/339579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein13-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 3 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/339581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/342215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein11-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 1 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/342216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 3 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein13-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 3 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/343068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 3 PREMIUM FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/343322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 1 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein11-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 1 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/343323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/344206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/344869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 MAX FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F917%2Fbein-sports-hd-1.png" group-title="Bein Sports",AR: BEIN SPORTS 6 MAX FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/347193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="Bein Sports",AR: BEIN SPORTS 1 PREMIUM SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/350623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 3 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/350624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1 HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 1 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/351482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 1 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein11-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 1 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/352784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="Bein Sports",AR: BEIN SPORTS 2 PREMIUM SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/355981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 PREMIUM SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/358383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 2 HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 2 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/359260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 2 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein12-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 2 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/366371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 3 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein13-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 3 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/373303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/407379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="Bein Sports",AR: BEIN SPORTS 3 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/409133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENGLISH 2 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein12-4k.png" group-title="Bein Sports",AR: BEIN SPORTS ENGLISH 2 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/413783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS SD" tvg-logo="https://i.pinimg.com/originals/3f/98/fb/3f98fb185d4dc43e090f71b5761e87f9.png" group-title="Bein Sports",AR: BEIN SPORTS NEWS SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/424329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS HEVC" tvg-logo="https://i.pinimg.com/originals/3f/98/fb/3f98fb185d4dc43e090f71b5761e87f9.png" group-title="Bein Sports",AR: BEIN SPORTS NEWS HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/461231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="Bein Sports",AR: BEIN SPORTS XTRA 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/491214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 8 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/620429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 9 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/620430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 8 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/621880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 9 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/621881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 HEVC" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 9 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/623616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 8 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/625329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 SD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 8 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/738359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS MAX 1 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/748220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 2 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS MAX 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/748221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 3 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS MAX 3 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/748222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F655%2Fbein-sports-max-1.png" group-title="Bein Sports",AR: BEIN SPORTS MAX 4 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/748223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7-4k.png" group-title="Bein Sports",AR: BEIN SPORTS 7 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1181324.m3u8
+#EXTINF:-1 tvg-id="1+1 Internacional.es" tvg-name="ES: M+ COPA DEL REY FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCOPA" group-title="ES M+ COPA DEL REY",ES: M+ COPA DEL REY FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/954611.m3u8
+#EXTINF:-1 tvg-id="1+1 Internacional.es" tvg-name="ES: M+ COPA DEL REY HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCOPA" group-title="ES M+ COPA DEL REY",ES: M+ COPA DEL REY HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/954612.m3u8
+#EXTINF:-1 tvg-id="1+1 Internacional.es" tvg-name="ES: M+ COPA DEL REY SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCOPA" group-title="ES M+ COPA DEL REY",ES: M+ COPA DEL REY SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/954613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 1" tvg-logo="https://iili.io/HNc5vWu.png" group-title="ES DAZN LIGA F",FINETWORK DAZN 1
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/648490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 2" tvg-logo="https://iili.io/HNc58ib.png" group-title="ES DAZN LIGA F",FINETWORK DAZN 2
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/648491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 3" tvg-logo="https://iili.io/HNc5kxe.png" group-title="ES DAZN LIGA F",FINETWORK DAZN 3
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/648492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 4" tvg-logo="https://iili.io/HNc5Ufj.png" group-title="ES DAZN LIGA F",FINETWORK DAZN 4
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/648493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 5" tvg-logo="https://iili.io/HNc5g0x.png" group-title="ES DAZN LIGA F",FINETWORK DAZN 5
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/648494.m3u8
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s38359_ll_h3_aa.png" group-title="France Sport",FR: EUROSPORT 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/917267.m3u8
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: BEIN SPORTS MAX 10 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87239_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 10 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941211.m3u8
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORTS MAX 4 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s83212_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 4 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 4 HD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s83212_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 4 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941213.m3u8
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORTS MAX 5 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87243_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 5 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 5 HD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87243_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 5 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941215.m3u8
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORTS MAX 6 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87244_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 6 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 6 HD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87244_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 6 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941217.m3u8
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: BEIN SPORTS MAX 7 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87246_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 7 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 7 HD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87246_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 7 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941219.m3u8
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: BEIN SPORTS MAX 8 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87248_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 8 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941220.m3u8
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: BEIN SPORTS MAX 9 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87250_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 9 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX 9 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/941222.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2 HEVC" tvg-logo="http://fanc.tmsimg.com/assets/s87224_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 2 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1001573.m3u8
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s87629_ll_h3_ab.png" group-title="France Sport",FR: EUROSPORT 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1067047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 6 HD" tvg-logo="" group-title="France Sport",FR: RMC SPORT 6 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1068287.m3u8
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="FR: TRACE SPORT STARS HD" tvg-logo="http://fanc.tmsimg.com/assets/s99271_ll_h3_ab.png" group-title="France Sport",FR: TRACE SPORT STARS HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1068292.m3u8
+#EXTINF:-1 tvg-id="Canal+ Sport 360.fr" tvg-name="FR: CANAL+ SPORT 360 HEVC" tvg-logo="" group-title="France Sport",FR: CANAL+ SPORT 360 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1079413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX10 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX10 (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092722.m3u8
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: BEIN SPORTS MAX10 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX10 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX10 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX10 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX10 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX10 SD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX4 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX4 (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092726.m3u8
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORTS MAX4 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX4 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX4 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX4 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX4 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX4 SD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX5 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX5 (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092730.m3u8
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORTS MAX5 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX5 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX5 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX5 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX5 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX5 SD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092733.m3u8
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORTS MAX6 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX6 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX6 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX6 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX6 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX6 SD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX7 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX7 (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX7 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX7 SD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX8 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX8 (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092739.m3u8
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: BEIN SPORTS MAX8 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX8 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX8 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX8 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX8 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX8 SD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX9 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX9 (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092743.m3u8
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: BEIN SPORTS MAX9 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX9 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX9 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX9 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX9 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX9 SD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 1 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 1 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 2 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 2 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 2 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 2 SD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 3 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 3 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 4 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 4 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 5 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 5 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 5 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 5 HD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 10 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 10 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 4 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 4 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 5 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 5 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 6 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 6 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 7 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 7 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 8 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 8 FHD (EVENT ONLY)
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1092797.m3u8
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKJGzWPdt-iY5daVr0y-l52kPuYEmxGk8nI8clYvbs6EA.png" group-title="France Sport",FR: CANAL+ SPORT HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1122160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+ [LIVE DURING EVENTS ONLY] HD" tvg-logo="" group-title="France Sport",FR: INFOSPORT+ [LIVE DURING EVENTS ONLY] HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1124178.m3u8
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR: INFOSPORT+ HD" tvg-logo="" group-title="France Sport",FR: INFOSPORT+ HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1126018.m3u8
+#EXTINF:-1 tvg-id="Canal+ Sport 360.fr" tvg-name="FR: CANAL + SPORT 360 HEVC" tvg-logo="" group-title="France Sport",FR: CANAL + SPORT 360 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1135715.m3u8
+#EXTINF:-1 tvg-id="eurosport3604.fr" tvg-name="FR: EUROSPORT360 4 FHD" tvg-logo="" group-title="France Sport",FR: EUROSPORT360 4 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1135727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 1 HD" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1135730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 2 HD" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1135731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 3 HD" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 3 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1135732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 4 HD" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 4 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1135733.m3u8
+#EXTINF:-1 tvg-id="rmcsportaccess1.fr" tvg-name="FR: RMC SPORTS 1 ACCESS FHD" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 1 ACCESS FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1135736.m3u8
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR: RMC SPORTS 2 FHD" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1135740.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s89738_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1148644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 2 HD" tvg-logo="" group-title="France Sport",FR: CANAL+ SPORT 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1156606.m3u8
+#EXTINF:-1 tvg-id="eurosport3605.fr" tvg-name="FR: EUROSPORT360 5 FHD" tvg-logo="" group-title="France Sport",FR: EUROSPORT360 5 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1159951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] HD" tvg-logo="http://fanc.tmsimg.com/assets/s89738_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1164275.m3u8
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="FR: RMC SPORT 4 SD" tvg-logo="" group-title="France Sport",FR: RMC SPORT 4 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1167973.m3u8
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="FR: RMC SPORT 7 FHD" tvg-logo="" group-title="France Sport",FR: RMC SPORT 7 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1179214.m3u8
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="FR: RMC SPORTS 7 FHD" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 7 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1179215.m3u8
+#EXTINF:-1 tvg-id="sportenfrance.fr" tvg-name="FR: SPORT EN FRANCE HD" tvg-logo="" group-title="France Sport",FR: SPORT EN FRANCE HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1179216.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3 SD" tvg-logo="http://fanc.tmsimg.com/assets/s87241_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 3 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1181703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 5 HD" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 5 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1181705.m3u8
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="FR: RMC SPORTS 4 SD" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 4 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1184524.m3u8
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR: RMC SPORTS 1 HD" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1186863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 6 HD" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 6 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1188698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: | BEIN SPORTS 1 HEVC" tvg-logo="" group-title="France Sport",FR: | BEIN SPORTS 1 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1194235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD [LIVE DURING EVENTS ONLY] HD" tvg-logo="http://fanc.tmsimg.com/assets/s89738_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 1 HD [LIVE DURING EVENTS ONLY] HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195870.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] HEVC" tvg-logo="http://fanc.tmsimg.com/assets/s89738_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195871.m3u8
+#EXTINF:-1 tvg-id="eurosport3601.fr" tvg-name="FR: EUROSPORT360 1 FHD" tvg-logo="" group-title="France Sport",FR: EUROSPORT360 1 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORT 2 HD" tvg-logo="" group-title="France Sport",FR: MULTISPORT 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORT 4 HD" tvg-logo="" group-title="France Sport",FR: MULTISPORT 4 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 14 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/France%20sport/RMC%20sport%20hd.png" group-title="France Sport",FR: RMC SPORT 14 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195878.m3u8
+#EXTINF:-1 tvg-id="RMC Sport 1.fr" tvg-name="FR: RMC SPORT 1 SD" tvg-logo="http://fanc.tmsimg.com/assets/s105855_ll_h3_aa.png" group-title="France Sport",FR: RMC SPORT 1 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195879.m3u8
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR: RMC SPORT 2 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s104092_ll_h3_aa.png" group-title="France Sport",FR: RMC SPORT 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195880.m3u8
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="FR: RMC SPORT 3 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s90503_ll_h3_aa.png" group-title="France Sport",FR: RMC SPORT 3 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 (MATCH TIME) SD" tvg-logo="" group-title="France Sport",FR: RMC SPORT 4 (MATCH TIME) SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5 FHD" tvg-logo="" group-title="France Sport",FR: RMC SPORT 5 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 9 SD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="France Sport",FR: RMC SPORT 9 SD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195886.m3u8
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="FR: RMC SPORTS 3 FHD" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 3 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1195887.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s87224_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1197318.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s87241_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 3 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1198138.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3 HEVC" tvg-logo="http://fanc.tmsimg.com/assets/s87241_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 3 HEVC
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1198139.m3u8
+#EXTINF:-1 tvg-id="eurosport3602.fr" tvg-name="FR: EUROSPORT360 2 HD" tvg-logo="" group-title="France Sport",FR: EUROSPORT360 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1198140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 10 [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="France Sport",FR: RMC SPORT 10 [LIVE DURING EVENTS ONLY] FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1198141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 8 FHD" tvg-logo="" group-title="France Sport",FR: RMC SPORT 8 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/1198142.m3u8
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ES: ALQUILER 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 1 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/267808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/267809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 3 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/267810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 4 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/267811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 5 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/267812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 10 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bebc225383c41e3b57a09377b383d0cc.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 10 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/267837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 6 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/267842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b67d9f90addab3b6bf844a123616b8c.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 7 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/267845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 9 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93b2ba8ff62cdb4e62e16fb148b20114.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 9 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/267848.m3u8
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ES: ALQUILER 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/275903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/275904.m3u8
+#EXTINF:-1 tvg-id="alquiler3.es" tvg-name="ES: ALQUILER 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 3 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/277422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a7c9182a22ffa6d277b8e3e7d433b8b.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 4 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/277423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 11 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 11 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/277781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 12 FHD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 12 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/277782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 8 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 8 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/277789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 8 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/277790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 1 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 1 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 10 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 10 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 2 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 2 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 3 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 3 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 4 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 4 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 5 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 5 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 6 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 6 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 7 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 7 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 8 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 1 FHD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 1 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 4 FHD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 4 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 9 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/279378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 9 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 9 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/283122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 10 HD" tvg-logo="" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 10 HD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/287103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 6 FHD" tvg-logo="s:1:/images/_5Z91KCcyxhlvEEwnFERcyd8TbrsKvgD8-kNz-3-SWt0HH1ZoDy-iwsRQYI-Sp8V.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 6 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/289390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 2 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/293864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ES M+ PELICULAS PPV",ES: TAQUILLA 3 FHD
+http://pc7mrd8u.k2bnhk.xyz:80/live/CalahorroPalacios/Calahorro1/293865.m3u8
 
 
 
