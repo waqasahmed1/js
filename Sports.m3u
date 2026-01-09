@@ -221,3 +221,205 @@ http://xui.brfontes.fun:80/138284362/124796521/12326637.m3u8
 http://xui.brfontes.fun:80/138284362/124796521/12326638.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="http://img.slim.re/imagens/canais/sportv-3.png" group-title="CANAIS I SPORTV",SporTV 3 SD
 http://xui.brfontes.fun:80/138284362/124796521/12326639.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Band Sports
+http://158.172.217.237:8000/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports
+http://158.172.217.237:8000/play/a0q4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Fox Sports 1
+http://158.172.217.237:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Fox Sports 2
+http://158.172.217.237:8000/play/a0b4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Fox Sports 3
+http://158.172.217.237:8000/play/a0b5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",TNT SPORTS 2
+http://158.172.217.237:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",TNT Sports Premium
+http://158.172.217.237:8000/play/a0ot/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",TNT Sports Premiun HD
+http://158.172.217.237:8000/play/a0nr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 HD
+http://45.167.1.139:8000/play/a00d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 SD
+http://45.167.1.139:8000/play/a04e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 HD
+http://45.167.1.139:8000/play/a00e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 SD
+http://45.167.1.139:8000/play/a02j
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Tigo Sports HD
+http://45.167.1.139:8000/play/a05u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 HD
+http://45.167.1.138:8000/play/a00d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 SD
+http://45.167.1.138:8000/play/a04e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 HD
+http://45.167.1.138:8000/play/a00e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 SD
+http://45.167.1.138:8000/play/a02j
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Tigo Sports HD
+http://45.167.1.138:8000/play/a05u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 HD
+http://45.167.1.136:8000/play/a00d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 SD
+http://45.167.1.136:8000/play/a04e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 HD
+http://45.167.1.136:8000/play/a00e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 SD
+http://45.167.1.136:8000/play/a02j
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Tigo Sports HD
+http://45.167.1.136:8000/play/a05u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 HD
+http://45.167.1.137:8000/play/a00d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 SD
+http://45.167.1.137:8000/play/a04e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 HD
+http://45.167.1.137:8000/play/a00e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 SD
+http://45.167.1.137:8000/play/a02j
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",TNT Sports Premiun HD
+http://190.61.55.238:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",TyC Sports
+http://190.61.55.238:8000/play/a0um/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",WIN SPORTS HD
+http://190.61.55.238:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Win Sports
+http://190.61.55.238:8000/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Win Sports+
+http://190.61.55.238:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Win Sports+ HD
+http://190.61.55.238:8000/play/a101/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Win Sports+ HD
+http://190.61.55.238:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 HD
+http://38.224.22.252:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 HD
+http://38.224.22.252:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 2 SD
+http://38.224.22.252:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Tigo Sports
+http://38.224.22.252:8000/play/a08q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",TNT Sports Premiun HD
+http://190.61.55.236:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",TyC Sports
+http://190.61.55.236:8000/play/a0um/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",WIN SPORTS HD
+http://190.61.55.236:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Win Sports
+http://190.61.55.236:8000/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Win Sports+ HD
+http://190.61.55.236:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 HD
+http://38.52.208.106:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",Claro Sports 1 SD
+http://38.52.208.106:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",DVB-ESPN
+http://45.167.2.138:8000/play/a0py/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",DVB-ESPN 2
+http://45.167.2.138:8000/play/a0r3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",DVB-ESPN 3
+http://45.167.2.138:8000/play/a0q0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN
+http://158.172.217.237:8000/play/a0av/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN
+http://158.172.217.237:8000/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 2
+http://158.172.217.237:8000/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 2 HD
+http://158.172.217.237:8000/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 2 Latin
+http://158.172.217.237:8000/play/a0au/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 3
+http://158.172.217.237:8000/play/a0c7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 4
+http://158.172.217.237:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 5HD
+http://158.172.217.237:8000/play/a0oh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN BRASIL
+http://158.172.217.237:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN CO
+http://158.172.217.237:8000/play/a0bm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN HD
+http://158.172.217.237:8000/play/a0nv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN Premium
+http://158.172.217.237:8000/play/a0ou/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN
+http://45.167.1.139:8000/play/a03l
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN  4 HD
+http://45.167.1.139:8000/play/a01p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 2
+http://45.167.1.139:8000/play/a03m
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 2 HD
+http://45.167.1.139:8000/play/a06b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 3
+http://45.167.1.139:8000/play/a02k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 4
+http://45.167.1.139:8000/play/a02l
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 5
+http://45.167.1.139:8000/play/a04g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 5  HD
+http://45.167.1.139:8000/play/a04u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 6
+http://45.167.1.139:8000/play/a01b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN  4 HD
+http://45.167.1.138:8000/play/a01p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 2
+http://45.167.1.138:8000/play/a03m
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 2 HD
+http://45.167.1.138:8000/play/a06b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN
+http://45.167.1.136:8000/play/a03l
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN  4 HD
+http://45.167.1.136:8000/play/a01p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 5  HD
+http://45.167.1.136:8000/play/a04u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 6
+http://45.167.1.136:8000/play/a01b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 6 HD
+http://45.167.1.136:8000/play/a06d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 5
+http://45.167.1.137:8000/play/a04g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 5  HD
+http://45.167.1.137:8000/play/a04u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 4
+http://45.70.201.81:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 5
+http://45.70.201.81:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 6
+http://45.70.201.81:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 7
+http://45.70.201.81:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN HD
+http://190.61.55.238:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN HD
+http://190.61.55.238:8000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN Premium HD
+http://190.61.55.238:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 5  HD
+http://38.224.22.252:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 6
+http://38.224.22.252:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 6 HD
+http://38.224.22.252:8000/play/a08c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN HD
+http://190.61.55.236:8000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN Premium HD
+http://190.61.55.236:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 5  HD
+http://38.52.208.106:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 6
+http://38.52.208.106:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN HD
+http://190.61.55.234:8000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN Premium HD
+http://190.61.55.234:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 7 Sur (ESPN 10)
+http://190.61.47.54:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN
+http://190.61.34.164:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 2
+http://190.61.34.164:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS ESPN  / CLARO",ESPN 3
+http://190.61.34.164:8000/play/a01k/index.m3u8
+
