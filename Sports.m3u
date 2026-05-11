@@ -1,4 +1,19 @@
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 1
+https://go.webcric.com/frame1.htm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 2
+https://go.webcric.com/frame2.htm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 3
+https://go.webcric.com/frame7.htm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 4
+https://go.webcric.com/frame8.htm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 1
+https://go.webcric.com/frame9.htm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 2
+https://go.webcric.com/frame11.htm
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",cricket link1
 http://www.yupptv.com/yupptvnew/channels/cricket-gold/live/embed
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",cricket link 2
@@ -7,3 +22,5 @@ http://www.yupptv.com/yupptvnew/channels/australia-vs-england-ashes-2025/live/em
 http://318798.net:80/live/c9b80d4a4f849ead30df27fe2186c777/5ac2e1033d1eef21f681/64658.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",CRICKET LIFE
 http://318798.net:80/live/c9b80d4a4f849ead30df27fe2186c777/5ac2e1033d1eef21f681/64657.m3u8
+
+
