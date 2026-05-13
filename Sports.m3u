@@ -15,6 +15,8 @@ https://go.webcric.com/frame11.htm
 https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",GEO SUPER
 http://175.107.244.52:4456/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",ARY A SPORTS
+http://175.107.244.52:4456/play/a04p/index.m3u8
 
 
 
