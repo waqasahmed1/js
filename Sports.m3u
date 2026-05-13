@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 1
-https://go.webcric.com/frame1.htm
+https://tgs1.myturn1.top:8088/mobile/stream2_240p/playlist.m3u8?vidictid=205863098388&id=6&pk=7b12dda5990aa806cca97a8cb6955f733055eb0fcb24679d14ca38a6481e8ab7756ee8b5296b4811ceba6d3dbd33fbf4a70b1ccd72d65f314aa92d4bf3045390
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 2
 https://go.webcric.com/frame2.htm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 3
@@ -11,6 +11,8 @@ https://go.webcric.com/frame8.htm
 https://go.webcric.com/frame9.htm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 2
 https://go.webcric.com/frame11.htm
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",CRICKET LIFE
 https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",GEO SUPER
