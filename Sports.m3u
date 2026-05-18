@@ -1,10 +1,4 @@
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE CRICKET  1
-https://vod-i-01-icc-we.akamaized.net/Content/HLSv4/VOD/5994/15851/cf59c53f-09ce-4e44-920c-4b11851a4b92/bc57f716-2de1-5767-3056-8fa378c33d7c/master.m3u8?hdnts=st%3D1779094496~exp%3D4932694496~acl%3D%2F*~hmac%3Dbf1f5a8a645d1caa502911f0715dc41cc8902d5d443b24fb604db0022dab27cc
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE CRICKET  2
-https://vod-i-01-icc-we.akamaized.net/Content/HLSv4/VOD/4094/3974/b56bc377-81cd-44d0-81bd-7254a931cba5/bc57f716-2de1-5767-3056-8fa378c33d7c/master.m3u8?hdnts=st%3D1779094497~exp%3D4932694497~acl%3D%2F*~hmac%3Dee1459255ef385af576d8c6e052f82d3050d0eea1a50923ef376e22cd8d71200
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 1
 https://go.webcric.com/frame1.htm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",LIVE STREAM 2
