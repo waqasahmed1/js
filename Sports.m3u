@@ -113,74 +113,216 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",EITB DEPORTE
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 
-
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Xtrem Sports
+#EXTINF:-1 group-title="OTHER CHANNELS",Xtrem Sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de@Poland" tvg-name="" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports",World of Freesports
+#EXTINF:-1 group-title="OTHER CHANNELS",World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Sports First (1080p)
+#EXTINF:-1 group-title="OTHER CHANNELS",Sports First (1080p)
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Premier Sports 5 (720p) [Geo-blocked]
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Premier Sports 4 (720p) [Geo-blocked]
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Premier Sports 2 (720p) [Geo-blocked]
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Premier Sports 1 (720p) [Geo-blocked]
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",NBC Sports
+#EXTINF:-1 group-title="OTHER CHANNELS",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Fox Sports 1
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="TVSWomenSports.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="Sports",TVS Women Sports (720p)
+#EXTINF:-1 group-title="OTHER CHANNELS",TVS Women Sports (720p)
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
-#EXTINF:-1 tvg-id="TVSSports.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="Sports",TVS Sports (720p) [Not 24/7]
+#EXTINF:-1 group-title="OTHER CHANNELS",TVS Sports (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-id="TVSClassicSports.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/auR0Mi6.png" group-title="Sports",TVS Classic Sports (360p)
+#EXTINF:-1 group-title="OTHER CHANNELS",TVS Classic Sports (360p)
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sports",SportsNet New York (540p)
-https://fl1.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png" group-title="Sports",FanDuel Sports Network
-https://fl1.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" tvg-name="" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS Sports Network USA
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="BEKSports.us@West" tvg-name="" tvg-logo="https://i.imgur.com/1l3t5jd.png" group-title="Sports",BEK TV Sports West (720p)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png" group-title="Sports",beIN Sports USA
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="SharjahSports.ae@SD" tvg-name="" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="Sports",Sharjah Sports (1080p) [Geo-blocked]
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae@SD" tvg-name="" tvg-logo="https://i.postimg.cc/hj8jYfz4/dubaisports3.png" group-title="Sports",Dubai Sports 3 (1080p) [Not 24/7]
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae@SD" tvg-name="" tvg-logo="https://i.postimg.cc/qRHqQ87Z/dubaisports2.png" group-title="Sports",Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports1.ae@SD" tvg-name="" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1 (1080p)
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr@SD" tvg-name="" tvg-logo="https://i.postimg.cc/sXMS2194/sportstv.png" group-title="Sports",Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-name="" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="OTHER CHANNELS",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="PremierSports5.mn@SD" tvg-name="" tvg-logo="https://i.imgur.com/LkIe9gR.png" group-title="Sports",Premier Sports 5 (480p)
-http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-#EXTINF:-1 tvg-id="PremierSports4.mn@SD" tvg-name="" tvg-logo="https://i.imgur.com/XHBJ7UB.png" group-title="Sports",Premier Sports 4 (480p)
-http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-id="PremierSports2.mn@SD" tvg-name="" tvg-logo="https://i.imgur.com/eMNWhDq.png" group-title="Sports",Premier Sports 2
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-id="PremierSports1.mn@SD" tvg-name="" tvg-logo="https://i.imgur.com/t5qCejI.png" group-title="Sports",Premier Sports 1 (480p)
-http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="Sports",DD Sports (720p)
+#EXTINF:-1 group-title="OTHER CHANNELS",DD Sports (720p)
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" tvg-name="" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports",World of Freesports (1080p)
+#EXTINF:-1 group-title="OTHER CHANNELS",World of Freesports (1080p)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-name="" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-name="" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
+#EXTINF:-1 group-title="OTHER CHANNELS",Bahrain Sports 1 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",PTV SPORTS HD
+#EXTINF:-1 group-title="OTHER CHANNELS",PTV SPORTS HD
 http://175.107.244.52:4456/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",EBRAVO EURO SPORTS 1
+#EXTINF:-1 group-title="OTHER CHANNELS",EBRAVO EURO SPORTS 1
 http://175.107.244.52:4456/play/a061/index.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",NBC Golf
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/381150.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",MOVISTAR GOLF
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/378590.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Bein Sports Ñ
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25694.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Caza y Pesca..
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/39490.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",DAZN 1
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/50051.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Direct Tv Sports 2
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25986.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Directv Sports
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25705.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN ARG..
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25562.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN Deportes US
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25708.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN U
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/81925.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Eurosports
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25685.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fight
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/78227.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Soccer Plus
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/81923.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports 2 ARG
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25710.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports 3 ARG
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25698.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports ARG
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25709.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports Premium Argentina..
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25713.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",FS1 US
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25706.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",FS2
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/198139.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",NESN Plus..
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/60440.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",TNT Sports
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25711.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",TNT SPORTS PREMIUM
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/189148.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",One Toro
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/50130.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",TyC Sports
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25712.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",TyC Sports |  OPC3
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/81921.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Wapa 2 Deportes
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/81597.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Win Sports +
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/81924.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",World Fishing Network..
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/60443.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",REAL MADRID TV
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/244877.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN 1 USA
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249253.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN 2 USA
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249254.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",MSG 2
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249256.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",SEC ESPN Network
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249260.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",MSG Plus
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249359.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Big Ten Network
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249822.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",PX Sports
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251641.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",+FOX College Pacific
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251578.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",NBC Sports Bay Area HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251580.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",TSN 1
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251596.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",NBC Sports Network HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251600.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Directv Sports 2 Lat
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251605.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",DAZN 2
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251606.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",BEIN SPORTS US
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251610.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Claro Sports Latinoamerica
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251613.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",DIRECTV SPORTS +
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251615.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Espn 2 | ARG HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251616.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Espn 2 | COL HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251617.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Espn 3 | ARG
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251619.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN 4 CL
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251621.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN Premium ARG
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251623.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",FOX Deportes | USA HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251625.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports 3 | COL HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251627.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",FUTV CR
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251628.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",DAZN LaLigaTV HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251629.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",PPV | SKY SPORTS FEMENIL
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/388036.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",+Cowboy Channel
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251577.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",MSG
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249257.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",CDO Basico
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251612.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",DAZN 3
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/112154.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Red Bull TV
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249286.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Liga de Campeones HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251630.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN ACCN
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249258.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN News
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/249255.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Bein Sports 1 USA
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25692.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Bein Sports Xtra
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25693.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",TENNIS CHANNEL
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/460181.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",PPV | SKY SPORTS LA LIGA
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/388035.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Adrenalina Sports
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25702.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Adrenalina Sports Netwok HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38858.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",AYM Sports
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25701.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",AYM Sports HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38859.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Claro Sport
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/121369.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Claro Sports..
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/67002.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN +HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38864.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN 2 HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38865.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN 3
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25699.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN 3..
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38866.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN Deportes HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38921.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",ESPN HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38922.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",FOX Sports 1 HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/61509.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",FOX Sports 2 HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38862.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports 2 | OPC3
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/125859.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",FOX Sports 3 HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38863.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports 3 | OPC3
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/125858.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports Premium Mx opc 2
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/125860.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports | OPC3
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/121122.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",TUDN HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/38861.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",TUDN USA HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/81777.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Tvc Deportes
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/50052.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Zona TUDN
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/95458.m3u8
+#EXTINF:-1 group-title="OTHER CHANNELS",Fox Sports Premium Mx
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/369798.m3u8
+
 
 
 
