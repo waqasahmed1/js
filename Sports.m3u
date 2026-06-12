@@ -40,6 +40,40 @@ http://www.yupptv.com/yupptvnew/channels/australia-vs-england-ashes-2025/live/em
 http://318798.net:80/live/c9b80d4a4f849ead30df27fe2186c777/5ac2e1033d1eef21f681/64658.m3u8
 
 #EXTM3U
+#EXTINF:-1 group-title="FOOTBALL LIVE",Direct Tv Sports 2
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25986.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",Directv Sports
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25705.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",ESPN ARG..
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25562.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",Fox Sports ARG
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25709.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",FS1 US
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25706.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",TNT Sports
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/25711.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",Win Sports +
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/81924.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",REAL MADRID TV
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/244877.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",Directv Sports 2 Lat
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251605.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",DIRECTV SPORTS +
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251615.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",ESPN Premium ARG
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251623.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",DAZN LaLigaTV HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251629.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",PPV | SKY SPORTS FEMENIL
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/388036.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",Liga de Campeones HD
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/251630.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",PPV | SKY SPORTS LA LIGA
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/388035.m3u8
+#EXTINF:-1 group-title="FOOTBALL LIVE",Zona TUDN
+http://cineplay.vip:2086/live/FerGZZ/JScJwvumXg/95458.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TVE LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TVE LA 2
